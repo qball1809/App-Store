@@ -1,7 +1,8 @@
 This plugin was made by a combined effort of:
 
-dagalufh, a Plex community member
-dane22, a Plex community member
+[dagalufh](https://forums.plex.tv/index.php/user/253163-dagalufh/), a Plex community member
+
+[dane22](https://forums.plex.tv/index.php/user/93609-dane22/), a Plex community member
 
 To contact the developers, you can do the following:
 

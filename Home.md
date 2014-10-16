@@ -11,5 +11,5 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 * Configuration
 * Usage
 * Troubleshooting
-* Contact
+* [Contact](https://github.com/dagalufh/WebTools.bundle/wiki/Contact)
 * Forum

@@ -7,3 +7,9 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 
 ***
 
+* Installation
+* Configuration
+* Usage
+* Troubleshooting
+* Contact
+* Forum

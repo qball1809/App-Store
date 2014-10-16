@@ -5,3 +5,5 @@ This bundle is a plugin for the [Plex Media Server](https://plex.tv/) that will 
 What this plugin can do, is that it will allow you to gather an overview of subtitles for a media, view them, and delete them, unless they are embedded within the media itself.
 
 
+***
+

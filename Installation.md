@@ -13,6 +13,8 @@ Manual install:
 * Make sure, that it ends up in a directory named WebTools.bundle (And **NOT WebTools.bundle-master**)
 * Make sure, that there's a directory just below the above mentioned, named "Contents". If not, then you might be one directory to high!
 
+Then wait 2 min. and then refresh the Plex Web Admin interface, and if WebTools doesn't show as a Channel. then restart your Plex Media Server
+
 
 
 

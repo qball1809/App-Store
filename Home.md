@@ -7,7 +7,7 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 
 ***
 
-* Installation
+* [Installation](https://github.com/dagalufh/WebTools.bundle/wiki/Installation)
 * Configuration
 * Usage
 * Troubleshooting

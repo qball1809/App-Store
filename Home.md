@@ -12,4 +12,4 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 * Usage
 * Troubleshooting
 * [Contact](https://github.com/dagalufh/WebTools.bundle/wiki/Contact)
-* Forum
+* [Forum](https://github.com/dagalufh/WebTools.bundle/wiki/Forum)

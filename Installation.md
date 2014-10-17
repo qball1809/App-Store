@@ -5,7 +5,7 @@ To install this plugin, you have two options:
 
 ***
 
-Manual install:
+### Manual install
 
 * [download it](https://github.com/dagalufh/WebTools.bundle/archive/master.zip) 
 * Extract the zip file
@@ -14,7 +14,7 @@ Manual install:
 * Make sure, that there's a directory just below the above mentioned, named "Contents". If not, then you might be one directory to high!
 
 
-### IF Media Server is on Windows ###
+### IF Media Server is on Windows
 If your Plex Media server is running on Windows, you now has to located the file named 
 "RightClick_Me_And_Select_Run_As_Administrator.cmd" in the WebTools.bundle directory, right-click on it, and select "Run as Administrator"
 

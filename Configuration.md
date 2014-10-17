@@ -6,6 +6,6 @@ After installing WebTools.bundle, it needs to be configured
 
 You are now ready to rock, so browse to:
 
-http://<IP Address of PMS>:32400/web/WebTools/index.html
+http://"IP Address of PMS":32400/web/WebTools/index.html
 
 [Back...](https://github.com/dagalufh/WebTools.bundle/wiki)

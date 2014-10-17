@@ -18,6 +18,9 @@ Manual install:
 If your Plex Media server is running on Windows, you now has to located the file named 
 "RightClick_Me_And_Select_Run_As_Administrator.cmd" in the WebTools.bundle directory, right-click on it, and select "Run as Administrator"
 
+
+***
+
 Then wait 2 min. and then refresh the Plex Web Admin interface, and if WebTools doesn't show as a Channel. then restart your Plex Media Server
 
 

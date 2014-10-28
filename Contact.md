@@ -8,7 +8,7 @@ To contact the developers, you can do the following:
 
 Post a message in the plugin thread found here:
 
-[WebTools Thread](https://forums.plex.tv) [PREFERRED]
+[WebTools Thread](https://forums.plex.tv/index.php/topic/126254-rel-webtools/) [PREFERRED]
 
 Or you can send us a personal message via the forum board following the links on our names
 

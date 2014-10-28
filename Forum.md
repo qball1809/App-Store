@@ -1,6 +1,6 @@
 To visit the forum for this bundle, please go here:
 
-TODO: Add link
+[Forum link](https://forums.plex.tv/index.php/topic/126254-rel-webtools/)
 
 
 

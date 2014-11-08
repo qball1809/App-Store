@@ -17,5 +17,9 @@ Logs can be provided to us publicly here, or if private is preferred, by [Plex f
 
 ***
 
+## Long waiting between click on link and loading.
 
+If you are experiencing long wait from the time you press a link to the time it starts loading, please make sure that you are not using a DNS name, but instead use the IP-adress of your PMS box.
+
+***
 [Back....](https://github.com/dagalufh/WebTools.bundle/wiki)

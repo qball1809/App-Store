@@ -4,7 +4,8 @@ After installing WebTools.bundle, it needs to be configured
 * Click on the "gear" icon almost on the top right
 * Enter the port you wants the http server to listen on, and select save
 
-
+**Note**
+Sadly, PMS will now show a spinner forever, so you now need to restart PMS, and
 You are now ready to rock, so browse to:
 
 http://"IP Address of PMS":33400

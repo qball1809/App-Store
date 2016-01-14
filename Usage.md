@@ -1,8 +1,11 @@
 ### First launch:
-Open Prefrences for the WebTools channel in Plex and enter the adress (IP or hostname) to your Plex Media Server.
+Open Preferences for the WebTools channel in Plex to change the ports to use to access this.
+If you change the defaults, the PMS will sadly hang, and and a PMS restart is needed.
+After that, you'll be good.
 
 ### Regular usage:
-Go to http://your-pms:32400/web/WebTools/index.html
+Go to http://your-pms:33400 or https://your-pms:33443
+(Above is the default ports)
 On the left side you have the sections and options listed.
 - Options persist between sessions.
 

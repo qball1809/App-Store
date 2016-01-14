@@ -1,6 +1,6 @@
 ### install
 
-* [download it](https://github.com/dagalufh/WebTools.bundle/archive/master.zip) 
+* [download it](https://github.com/dagalufh/WebTools.bundle/releases/latest) 
 * Extract the zip file
 * Copy the extracted files to the [Plugin directory](https://support.plex.tv/hc/en-us/articles/201106098)
 * Make sure, that it ends up in a directory named WebTools.bundle (And **NOT WebTools.bundle-master**)

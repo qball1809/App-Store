@@ -1,5 +1,10 @@
 ### install
 
+If running QNAP, take a peak here:
+[Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
+
+And if not, or if you want's to do it manually, follow this:
+
 * [download it](https://github.com/dagalufh/WebTools.bundle/releases/latest) 
 * Extract the zip file
 * Copy the extracted files to the [Plugin directory](https://support.plex.tv/hc/en-us/articles/201106098)

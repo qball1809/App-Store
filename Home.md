@@ -13,3 +13,4 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 * [Troubleshooting](https://github.com/dagalufh/WebTools.bundle/wiki/Troubleshooting)
 * [Contact](https://github.com/dagalufh/WebTools.bundle/wiki/Contact)
 * [Forum](https://github.com/dagalufh/WebTools.bundle/wiki/Forum)
+* [Developer](https://github.com/dagalufh/WebTools.bundle/wiki/Developer)

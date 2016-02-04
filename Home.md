@@ -1,6 +1,7 @@
 Welcome to the WebTools.bundle wiki!
 
-This bundle is a plugin for the [Plex Media Server](https://plex.tv/) that will assist you in maintaning your Plex Media Server by a few modules, installed with WebTools-
+This bundle is a plugin for the [Plex Media Server](https://plex.tv/) that will assist you in maintaning your Plex Media Server by a few modules, installed with WebTools.
+
 Modules currently avail are:
 
 * Subtitle Management. Manage subtitle files, regardless of them been sidecars (Located next to the media file), or downloaded via another plugin, like the OpenSubtitle bundle.

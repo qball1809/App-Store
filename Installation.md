@@ -1,6 +1,6 @@
 ### install
 
-If running QNAP, take a peak here:
+If running Asustore, QNAP or Synology, take a peak here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
 And if not, or if you want's to do it manually, follow this:

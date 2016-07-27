@@ -1,6 +1,6 @@
 ### install
 
-If running Asustore, QNAP or Synology, take a peek here:
+If running Windows, Asustore, QNAP or Synology, take a peek here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
 And if not, or if you want's to do it manually, follow this:

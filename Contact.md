@@ -10,7 +10,7 @@ Post a message in the plugin thread found here:
 
 [WebTools Thread](https://forums.plex.tv/discussion/126254) [PREFERRED]
 
-Or you can send us a personal message via the forum board following the links on our names
+Or you can send us a personal message via the forum board following the links on our names, but do note, that for general support, no PM's please!
 
 
 [Back...](https://github.com/dagalufh/WebTools.bundle/wiki)

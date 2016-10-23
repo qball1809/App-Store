@@ -1,4 +1,4 @@
-To learn how to use this, please download the user manual provided by Trumpy81 from the [release page](https://github.com/dagalufh/WebTools.bundle/releases/latest)
+To learn how to use this, please download the user manual provided by Trumpy81 from the [here](https://github.com/dagalufh/WebTools.bundle/blob/master/http/manual/WebTools-User-Manual.pdf)
 
 
 

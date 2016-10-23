@@ -10,4 +10,7 @@ You are now ready to rock, so browse to:
 
 `http://"IP Address of PMS":<Port from above>`
 
+**NOTE:**
+Do **NOT** set the port to 32400, since that's already used by Plex
+
 [Back...](https://github.com/dagalufh/WebTools.bundle/wiki)

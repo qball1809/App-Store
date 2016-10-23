@@ -8,6 +8,7 @@ Modules currently avail are:
 What this plugin can do, is that it will allow you to gather an overview of subtitles for a media, view them, and delete them, unless they are embedded within the media itself.
 * LogViewer/Downloader Tool. Easy access to all the logs within Plex Media Server, and also allows an easy way to download those
 * Unsupported AppStore. The source to unsupported plugin's
+* FindMedia. Makes it possible to locate medias, that's either missing from the database or from the filesystem
 
 
 ***

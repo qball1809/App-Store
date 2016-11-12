@@ -10,6 +10,7 @@ And if not, or if you want's to do it manually, follow this:
 * Copy the extracted files to the [Plug-ins directory](https://support.plex.tv/hc/en-us/articles/201106098)
 * Make sure, that it ends up in a directory named WebTools.bundle (And **NOT WebTools.bundle-master**)
 * Make sure, that there's a directory just below the above mentioned, named "Contents". If not, then you might be one directory to high!
+* If running Linux or Mac, also makes sure, that the user running Plex Media Server, has full rights to the WebTools.bundle directory and below
 
 
 ***

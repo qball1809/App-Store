@@ -2,6 +2,8 @@ This plugin was made by a combined effort of:
 
 [dagalufh](https://forums.plex.tv/profile/dagalufh/), a Plex community member (Front end)
 
+[omc1000](https://forums.plex.tv/profile/omc1000/), a Plex community member (Front end)
+
 [dane22](https://forums.plex.tv/profile/dane22), a Plex community member (Back end)
 
 To contact the developers, you can do the following:

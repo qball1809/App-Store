@@ -22,4 +22,4 @@ Then wait 2 min. and then refresh the Plex Web Admin interface, and if WebTools 
 
 
 
-[[Back|main]]
+[[Back|Home]]

@@ -1,2 +1,7 @@
 * [[Home|Home]]
 * [[Configuration|Configuration]]
+* [[Usage|Usage]]
+* [[Troubleshooting|Troubleshooting]]
+* [[Contact|Contact]]
+* [[Forum|Forum]]
+* [[Developer|Developer]]

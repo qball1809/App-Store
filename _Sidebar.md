@@ -1,4 +1,5 @@
 * [[Home|Home]]
+* [[Installation|Installation]]
 * [[Configuration|Configuration]]
 * [[Usage|Usage]]
 * [[Troubleshooting|Troubleshooting]]

@@ -1,9 +1,9 @@
-### Install
+### Installation
 
 If you are running Windows, Asustor, QNAP or Synology, you will find easy to install packages here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
-### Manual Install
+### Manual Installion
 If you want/need to install WebTools manually, follow these steps:
 
 * [Download WebTools here](https://github.com/dagalufh/WebTools.bundle/releases/latest) 

@@ -1,25 +1,23 @@
-### install
+### Install
 
-If running Windows, Asustor, QNAP or Synology, take a peek here:
+If you are running Windows, Asustor, QNAP or Synology, you will find easy to install packages here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
-And if not, or if you want's to do it manually, follow this:
+### Manual Install
+If you want/need to install WebTools manually, follow these steps:
 
-* [download it](https://github.com/dagalufh/WebTools.bundle/releases/latest) 
-* Extract the zip file
+* [Download WebTools here](https://github.com/dagalufh/WebTools.bundle/releases/latest) 
+* Extract all files from the zip file
 * Copy the extracted files to the [Plug-ins directory](https://support.plex.tv/hc/en-us/articles/201106098)
-* Make sure, that it ends up in a directory named WebTools.bundle (And **NOT WebTools.bundle-master**)
-* Make sure, that there's a directory just below the above mentioned, named "Contents". If not, then you might be one directory to high!
-* If running Linux or Mac, also makes sure, that the user running Plex Media Server, has full rights to the WebTools.bundle directory and below
+* Make sure the directory is named WebTools.bundle (and **NOT** WebTools.bundle-master)
+* Make sure the WebTools.bundle directory contains a directory named "Contents". If not, then you might be one directory too high!
+* If running Linux or Mac OS X, also make sure that the user running Plex Media Server has the correct permissions to the WebTools.bundle directory and it's contents.
 
+**Note:** You cannot currently install WebTools on the Nvidia Shield TV. See the Plex [Nvidia Shield](https://forums.plex.tv/categories/nvidia-shield) forum for details.
 
-***
+Your Plug-ins folder should look something like this after manually installing WebTools.
+![](http://trumpy.net/WTimages/IWT-image01.jpg)
 
-Then wait 2 min. and then refresh the Plex Web Admin interface, and if WebTools doesn't show as a Channel. then restart your Plex Media Server
-
-
-
-
-
+YUN = Your User Name.
 
 [[Back|Home]]

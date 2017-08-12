@@ -93,16 +93,16 @@ THIS PAGE IS WORK IN PROGRESS
   * [#116](../issues/116) UAS: Make UAS work, even if a git is dir levels too low
   * [#117](../issues/117) UAS: Uninstall unknown bundle
   * [#121](../issues/121) UAS: Cleanup old files/folders when updating
+  * [#122](../issues/122) UAS: bundle migration
+  * [#138](../issues/138) UAS: getAllBundleInfo is reset when UASRepo is updated
+* **New**:
+  * [#129](../issues/129) UAS: Alllow 3.Party devs to clear their stuff
+  * [#135](../issues/135) WT: Tell users, if wrong install path is used
+  * [#137](../issues/137) WT: Add new decorator for auth
+  * [#126](../issues/126) UAS: Allow WebTools to autoupdate
+  * [---] WT: Added a language module for devs
 
 
-		#122 UAS: bundle migration
-		#138 UAS: getAllBundleInfo is reset when UASRepo is updated
-	New:
-		#129 UAS: Alllow 3.Party devs to clear their stuff
-		#135 WT: Tell users, if wrong install path is used
-		#137 WT: Add new decorator for auth
-		#126 UAS: Allow WebTools to autoupdate
-		###  WT: Added a language module for devs
 		###  WT: Added a reset function, that will reset to factory settings
 
 FRONTEND:

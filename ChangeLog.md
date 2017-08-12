@@ -14,7 +14,7 @@ THIS PAGE IS WORK IN PROGRESS
 * [V0.0.0.12](ChangeLog#v00012)
 * [V0.0.0.11](ChangeLog#v00011)
 * [V0.0.0.10](ChangeLog#v00010)
-* [V0.0.0.9](ChangeLog#v0009)
+* [V0.0.0.9](ChangeLog#v0009) ...First public release...
 * [V0.0.0.8](ChangeLog#v0008)
 * [V0.0.0.7](ChangeLog#v0007)
 * [V0.0.0.6](ChangeLog#v0006)

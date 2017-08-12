@@ -2,9 +2,10 @@
 
 ## Versions:
 
-* [V2.4.1](#v2.4.1)
-* [V2.4](#v2.4)
-* [V2.3](ChangeLog#v23)
+* [V2.4.1](ChangeLog#v2.4.1)
+* [V2.4](ChangeLog#v2.4)
+* [V2.3](ChangeLog#v2.3)
+* [V2.2](ChangeLog#v2.2)
 
 ### V2.4.1
 
@@ -13,7 +14,7 @@
   * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265) SUB: No paging by letter, for TV-Shows
 
 
-## V2.4
+### V2.4
 
 * Fix:
   * [#166](../issues/166) WT: Themes - v2.2 release - Default theme error
@@ -54,7 +55,7 @@
   * [#234](../issues/234) UAS: New key to UAS json
   * [#238](../issues/238) FM: FM and Extras
 
-## V2.3
+### V2.3
 
 * Fix:
   * [#110](../issues/110) UAS: Allow it to fetch from release info as well
@@ -78,7 +79,7 @@
   * [#191](../issues/191) WT: Version numbering moved to VERSION file in the root of the bundle
   * [#204](../issues/204) FM: New Modul: FindMedia
 
-##V2.2
+### V2.2
 
 BACKEND:
 	Fix:

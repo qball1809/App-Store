@@ -257,6 +257,14 @@ Made the last entry from the changelog visible on the main page of Webtools.
 
 [Jump to top of page](ChangeLog#top)
 
+### V1.0:
+
+* **New**:
+  * [---] WT: Release of the brand new interface. It holds a ton of new and refined looks and some under the hood improvements. Completly rewritten.
+  * [---] WT: Now use the PMS build-in Tornado WebServer
+
+[Jump to top of page](ChangeLog#top)
+
 ### V0.0.0.18:
 
 * **Fix**:

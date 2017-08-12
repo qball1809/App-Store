@@ -6,3 +6,4 @@
 * [[Contact|Contact]]
 * [[Forum|Forum]]
 * [[Developer|Developer]]
+* [[ChangeLog|ChangeLog]]

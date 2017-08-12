@@ -5,17 +5,18 @@
 * Fix:
 
   * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264) UAS: v2.4 of WebTools UnsupportedAppStore Error
-  * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265)	SUB: No paging by letter, for TV-Shows
+  * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265) SUB: No paging by letter, for TV-Shows
 
 
-####
+## V2.4:
 
-V2.4:
-	Fix:
-		#166	WT:		Themes - v2.2 release - Default theme error
-		#197	SUB:		Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
-		#202	WT:		Added word-wrap to dialogbox
-		#203	UAS:		Non UAS 2 UAS
+* Fix:
+
+  * [#166](https://github.com/ukdtom/WebTools.bundle/issues/166) WT: Themes - v2.2 release - Default theme error
+  * [#197](https://github.com/ukdtom/WebTools.bundle/issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
+  * [#202](https://github.com/ukdtom/WebTools.bundle/issues/202) WT: Added word-wrap to dialogbox
+  * [#203](https://github.com/ukdtom/WebTools.bundle/issues/203) UAS: Non UAS 2 UAS
+
 		#209	WT:		WT Autoupdate broke
 		#212	WT:		Problems with browser caching
 		#213	WT:		Need a Misc function to Unicodize a filepath

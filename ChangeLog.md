@@ -9,7 +9,7 @@
 
 ### V2.4.1:
 
-* Fix:
+* **Fix**:
   * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264) UAS: v2.4 of WebTools UnsupportedAppStore Error
   * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265) SUB: No paging by letter, for TV-Shows
 
@@ -17,7 +17,7 @@
 
 ### V2.4:
 
-* Fix:
+* **Fix**:
   * [#166](../issues/166) WT: Themes - v2.2 release - Default theme error
   * [#197](../issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
   * [#202](../issues/202) WT: Added word-wrap to dialogbox

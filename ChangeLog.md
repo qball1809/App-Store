@@ -36,8 +36,6 @@
   * [#244](../issues/244) WT: Editing the update window
   * [#245](../issues/245) SUB: Subs identified as Sidecar, when agent based
   * [#248](../issues/248) WT: Debug mode force uas repo to test branch
-
-
 * New:
   * [#168](../issues/168) WT: Error message
   * [#171](../issues/171) SUB: Add search function to SUB module for movies

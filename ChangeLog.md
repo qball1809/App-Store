@@ -4,7 +4,7 @@
 
 * Fix:
 
-** [#264](https://github.com/ukdtom/WebTools.bundle/issues/264)	UAS:	v2.4 of WebTools UnsupportedAppStore Error
+  * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264)	UAS:	v2.4 of WebTools UnsupportedAppStore Error
 * * #265	SUB:	No paging by letter, for TV-Shows
 
 ####

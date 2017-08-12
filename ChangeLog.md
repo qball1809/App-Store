@@ -18,8 +18,7 @@
   * [#203](../issues/203) UAS: Non UAS 2 UAS
   * [#209](../issues/209) WT: WT Autoupdate broke
   * [#212](../issues/212) WT: Problems with browser caching
-  * [[#213|#213]]
-
+  * [#213](#213)
 
 
 		#213	WT:		Need a Misc function to Unicodize a filepath

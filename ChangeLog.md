@@ -257,6 +257,13 @@ Made the last entry from the changelog visible on the main page of Webtools.
 
 [Jump to top of page](ChangeLog#top)
 
+### V1.1:
+
+* **Fix**:
+  * [---] WT: Fix for languagecodes. Not using flags anymore.
+
+[Jump to top of page](ChangeLog#top)
+
 ### V1.0:
 
 * **New**:

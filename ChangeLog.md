@@ -38,12 +38,12 @@
   * [#248](../issues/248) WT: Debug mode force uas repo to test branch
 
 * New:
-
   * [#168](../issues/168) WT: Error message
   * [#171](../issues/171) SUB: Add search function to SUB module for movies
+  * [#174](../issues/174) WT: Notifies if there is a new version upon logon
+  * [#177](../issues/177) UAS: Added force update of repo button/functionality
 
-		#174	WT:		Notifies if there is a new version upon logon.
-		#177	UAS:		Added force update of repo button/functionality
+
 		#181	SUB:		Add a download button for sidecar subtitles
 		#205	SUB:	Add an option to shorten the list to only items with 'unfiltered' subtitles
 		#206	WT:		Add setting of locale to the log

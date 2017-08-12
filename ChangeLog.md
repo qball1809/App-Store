@@ -318,6 +318,8 @@ V0.0.0.3:
 
 ### V0.0.0.2:
 
+Internal version, never released
+
 * **Fix**:
   * [---] WT: Will now update functions.js based on prefs
 * **New**:
@@ -327,6 +329,8 @@ V0.0.0.3:
 [Jump to top of page](ChangeLog#top)
 
 ### V0.0.0.1:
+
+Internal version, never released
 
 * **New**:
   * [---] SUBS: Can now view subtitles via the view link

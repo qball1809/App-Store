@@ -8,6 +8,9 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.18](ChangeLog#v00018)
+* [V0.0.0.17](ChangeLog#v00017)
+* [V0.0.0.16](ChangeLog#v00016)
 * [V0.0.0.15](ChangeLog#v00015)
 * [V0.0.0.14](ChangeLog#v00014)
 * [V0.0.0.13](ChangeLog#v00013)
@@ -248,21 +251,32 @@ Wrote in this changelog (Issue #85)
 Made the last entry from the changelog visible on the main page of Webtools.
 ####
 
-V0.0.0.18:
-	HTTP Part:
-	- Moved Token handling to the end of queries.
+[Jump to top of page](ChangeLog#top)
 
-V0.0.0.17:
-	HTTP Part:
-	- Modified Token handling to make sure it's only appended if it's actually there.
-	- Modified loading screens when loading sections and movies.
-	- Corrected an issue with autoselecting duplicates that caused all subtitles to be selected.
+### V0.0.0.18:
 
-V0.0.0.16:
-	HTTP Part:
-	- Added Token handling.
-	- Changed viewing of subtitles and logs to be handled by Modal instead.
-	- Corrected text on welcome page.
+* **Fix**:
+  * [---] WT: Moved Token handling to the end of queries
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.17:
+
+* **Fix**:
+  * [---] WT: Modified Token handling to make sure it's only appended if it's actually there
+  * [---] SUBS: Modified loading screens when loading sections and movies
+  * [---] SUBS: Corrected an issue with autoselecting duplicates that caused all subtitles to be selected
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.16:
+
+* **New**:
+  * [---] WT: Added Token handling.
+* **Fix**:
+  * [---] SUBS: Changed viewing of subtitles to be handled by Modal instead
+  * [---] LOGS: Changed viewing of logs to be handled by Modal instead
+  * [---] WT: Corrected text on welcome page
 
 [Jump to top of page](ChangeLog#top)
 

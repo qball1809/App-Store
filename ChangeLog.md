@@ -129,25 +129,20 @@ THIS PAGE IS WORK IN PROGRESS
   * [#161](../issues/161) THEMES: Request for element isolation
   * [---] SUB: Added more logging for uploads
 * **New**:
+  * [#93](../issues/93) WT: Now has support for custom themes! First out is a draft of @trumpy81 that needs to be finetuned by trumpy81
+  * [#112](../issues/112) SUBS: Allow delete/view of subs
   * [#126](../issues/126) UAS: Allow WebTools to autoupdate
-  * [#129](../issues/129) UAS: Alllow 3.Party devs to clear their stuff
+  * [#129](../issues/129) UAS: Allow 3.Party devs to clear their stuff
+  * [#133](../issues/133) SUBS: Added GUI for uploading subtitles
   * [#135](../issues/135) WT: Tell users, if wrong install path is used
   * [#137](../issues/137) WT: Add new decorator for auth
+  * [#142](../issues/142) LOGS: Search for keywords, highlighting of the same. Jump to top
+  * [#149](../issues/149) SUBS: Implemented letters instead of straight up numbers for paging
+  * [#160](../issues/160) WT: Implemented Factory Reset functionality. Available through the Options menu
   * [---] WT: Added a language module for devs
   * [---] WT: Added a reset function, that will reset to factory settings
-
-
-
-	New:
-		#126 UAS: Allow WebTools to autoupdate
-		#142 LogViewer: Search for keywords, highlighting of the same. Jump to top.
-		#133 Subtitlemgmt: Added GUI for uploading subtitles
-		#112 Subtitlemgmt: Allow delete/view for agent subtitles aswell.
-		###  Subtitlemgmt: Now uses the new Language Module
-		#93  WT: Now has support for custom themes! First out is a draft of trumpy81 that needs to be finetuned by trumpy81
-		#160 WT: Implemented Factory Reset functionality. Available through the Options menu.
-		#149 Subtitlemgmt: Implemented letters instead of straight up numbers for paging.
-		###  WT: Removed LogFiles from top menu, redirecting users to LogViewer instead.
+  * [---] SUBS: Now uses the new Language Module
+  * [---] WT: Removed LogFiles from top menu, redirecting users to LogViewer instead
 		
 [Jump to top of page](ChangeLog#top)
 
@@ -180,6 +175,11 @@ WebTools:
 UAS:
 	When selecting "ShowOnlyInstalled", only categories with installed plugins are shown. (Issue #119)
 
+[Jump to top of page](ChangeLog#top)
+
+### V2.1:
+
+Sadly lost info about what changed in that version
 
 [Jump to top of page](ChangeLog#top)
 

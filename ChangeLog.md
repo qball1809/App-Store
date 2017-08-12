@@ -2,10 +2,10 @@
 
 ## Versions:
 
-* [V2.4.1](ChangeLog#v2.4.1)
-* [V2.4](ChangeLog#v2.4)
-* [V2.3](ChangeLog#v2.3)
-* [V2.2](ChangeLog#v2.2)
+* [V2.4.1](ChangeLog#v241)
+* [V2.4](ChangeLog#v24)
+* [V2.3](ChangeLog#v23)
+* [V2.2](ChangeLog#v22)
 
 ### V2.4.1
 

@@ -8,6 +8,8 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.4](ChangeLog#v0004)
+* [V0.0.0.3](ChangeLog#v0003)
 * [V0.0.0.2](ChangeLog#v0002)
 * [V0.0.0.1](ChangeLog#v0001)
 

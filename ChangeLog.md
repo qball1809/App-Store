@@ -3,12 +3,11 @@
 ## V2.4.1
 
 * Fix:
-
   * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264) UAS: v2.4 of WebTools UnsupportedAppStore Error
   * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265) SUB: No paging by letter, for TV-Shows
 
 
-## V2.4:
+## V2.4
 
 * Fix:
   * [#166](../issues/166) WT: Themes - v2.2 release - Default theme error
@@ -41,46 +40,39 @@
   * [#171](../issues/171) SUB: Add search function to SUB module for movies
   * [#174](../issues/174) WT: Notifies if there is a new version upon logon
   * [#177](../issues/177) UAS: Added force update of repo button/functionality
+  * [#181](../issues/181) SUB: Add a download button for sidecar subtitles
+  * [#205](../issues/205) SUB: Add an option to shorten the list to only items with 'unfiltered' subtitles
+  * [#206](../issues/206) WT: Add setting of locale to the log
+  * [#230](../issues/230) UAS: Add ability to search plugins
+  * [#231](../issues/231) UAS: Add possibility to show a msg when a plugin is installed
+  * [#234](../issues/234) UAS: New key to UAS json
+  * [#238](../issues/238) FM: FM and Extras
 
+## V2.3
 
-		#181	SUB:		Add a download button for sidecar subtitles
-		#205	SUB:	Add an option to shorten the list to only items with 'unfiltered' subtitles
-		#206	WT:		Add setting of locale to the log
-		#230	UAS:		Add ability to search plugins
-		#231	UAS:		Add possibility to show a msg when a plugin is installed
-		#234	UAS:		New key to UAS json
-		#238	FM:		FM and Extras
+* Fix:
+  * [#110](../issues/110) UAS: Allow it to fetch from release info as well
+  * [#134](../issues/134) UAS: Wrong time for Latest Update on Github
+  * [#165](../issues/165) LOGS: Fixed issue with spaces in filenames
+  * [#166](../issues/166) UAS: Removed highlight of All after selecting category
+  * [#172](../issues/172) WT: Fixed issue with Factory reset
+  * [#176](../issues/176) UAS: Critical error in updateInstallDict
+  * [#178](../issues/178) WT: Fixed issue with intruder detection
+  * [#184](../issues/184) WT: Logging can fail on Mac OS
+  * [#187](../issues/187) UAS: Fix for correct sorting. Now sorts alphabetical without concerning about capital/lower case letters
+  * [#188](../issues/188) UAS: New way with consts and debug broken on Windows
+  * [#189](../issues/189) WT: Fix for startup issue if on Windows and lang is set to CP1251
+  * [#190](../issues/190) LOGS: Fix for issue with cyrilian characters, when not running UTF-8
+  * [#197](../issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
+* New:
+  * [#170](../issues/170) WT: Added a user guide from Trumpy81. URL is /manual/WebTools-User-Manual.pdf
+  * [#171](../issues/171) PMS: Added Search to the backend
+  * [#175](../issues/175) PMS: Autodownload Repo if json is missing
+  * [#185](../issues/185) WT: Enhance developer/debug mode
+  * [#191](../issues/191) WT: Version numbering moved to VERSION file in the root of the bundle
+  * [#204](../issues/204) FM: New Modul: FindMedia
 
-####
-
-V2.3 Release:
-	Fix:
-		#110	UAS:	Allow it to fetch from release info as well
-		#134	UAS:	Wrong time for Latest Update on Github		
-		#165  LV:		Fixed issue with spaces in filenames
-		#166	UAS:	Removed highlight of All after selecting category
-		#172	WT:		Fixed issue with Factory reset
-		#176	UAS:	Critical error in updateInstallDict
-		#178	WT: 	Fixed issue with intruder detection
-		#184	WT:		Logging can fail on Mac OS 		
-		#187	UAS:	Fix for correct sorting. Now sorts alphabetical without concerning about capital/lower case letters.
-		#188	UAS:	New way with consts and debug broken on Windows
-		#189	WT:		Fix for startup issue if on Windows and lang is set to CP1251
-		#190	LV:		Fix for issue with cyrilian characters, when not running UTF-8
-		#197	SUB:	Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
-		
-	New:
-		#170	WT:		Added a user guide from Trumpy81. URL is /manual/WebTools-User-Manual.pdf
-		#171	PMS:	Added Search to the backend
-		#175	PMS: 	Autodownload Repo if json is missing
-		#185	WT:		Enhance developer/debug mode
-		#191	WT:		Version numbering moved to VERSION file in the root of the bundle
-		#204	FM:		New Modul: FindMedia
-
-
-####
-
-V2.2 Release:
+##V2.2
 
 BACKEND:
 	Fix:

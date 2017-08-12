@@ -13,6 +13,7 @@
   * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264) UAS: v2.4 of WebTools UnsupportedAppStore Error
   * [#265](https://github.com/ukdtom/WebTools.bundle/issues/265) SUB: No paging by letter, for TV-Shows
 
+[Jump to top of page](ChangeLog#top)
 
 ### V2.4:
 
@@ -55,6 +56,8 @@
   * [#234](../issues/234) UAS: New key to UAS json
   * [#238](../issues/238) FM: FM and Extras
 
+[Jump to top of page](ChangeLog#top)
+
 ### V2.3:
 
 * Fix:
@@ -78,6 +81,8 @@
   * [#185](../issues/185) WT: Enhance developer/debug mode
   * [#191](../issues/191) WT: Version numbering moved to VERSION file in the root of the bundle
   * [#204](../issues/204) FM: New Modul: FindMedia
+
+[Jump to top of page](ChangeLog#top)
 
 ### V2.2:
 
@@ -118,6 +123,8 @@ FRONTEND:
 		#149 Subtitlemgmt: Implemented letters instead of straight up numbers for paging.
 		###  WT: Removed LogFiles from top menu, redirecting users to LogViewer instead.
 		
+[Jump to top of page](ChangeLog#top)
+
 ####
 
 V2.2-DEV-2016-02-25:

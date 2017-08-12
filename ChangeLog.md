@@ -4,10 +4,10 @@ THIS PAGE IS WORK IN PROGRESS
 
 ## Versions:
 
-* [V2.4.1](ChangeLog#v241)
-* [V2.4](ChangeLog#v24)
-* [V2.3](ChangeLog#v23)
-* [V2.2](ChangeLog#v22)
+* [V2.4.1](ChangeLog#v241)   (2017-02-19)
+* [V2.4](ChangeLog#v24)   (2017-02-14)
+* [V2.3](ChangeLog#v23)   (2016-10-23)
+* [V2.2](ChangeLog#v22)   (2016-04-25)
 * [V0.0.0.18](ChangeLog#v00018)
 * [V0.0.0.17](ChangeLog#v00017)
 * [V0.0.0.16](ChangeLog#v00016)

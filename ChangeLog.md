@@ -12,12 +12,14 @@
 
 * Fix:
 
-  * [#166](https://github.com/ukdtom/WebTools.bundle/issues/166) WT: Themes - v2.2 release - Default theme error
-  * [#197](https://github.com/ukdtom/WebTools.bundle/issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
-  * [#202](https://github.com/ukdtom/WebTools.bundle/issues/202) WT: Added word-wrap to dialogbox
-  * [#203](https://github.com/ukdtom/WebTools.bundle/issues/203) UAS: Non UAS 2 UAS
-  * [#209](https://github.com/ukdtom/WebTools.bundle/issues/209) WT: WT Autoupdate broke
+  * [#166](../issues/166) WT: Themes - v2.2 release - Default theme error
+  * [#197](../issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
+  * [#202](../issues/202) WT: Added word-wrap to dialogbox
+  * [#203](../issues/203) UAS: Non UAS 2 UAS
+  * [#209](../issues/209) WT: WT Autoupdate broke
   * [#212](../issues/212) WT: Problems with browser caching
+  * #213
+
 
 
 		#213	WT:		Need a Misc function to Unicodize a filepath

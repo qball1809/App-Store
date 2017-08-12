@@ -297,15 +297,26 @@ V0.0.0.7:
 	Bundle Part:
 	- Added randomizer to the secret
 
-V0.0.0.6:
+### V0.0.0.6:
+
+Internal version, never released
+
+* **New**:
+
 	Bundle Part:
 	- Removed PathToLib function
 	- PathToLib variable will now be stamped during startup to settings.js
 
-V0.0.0.5:
-	Bundle Part:
-	- Added SetPref
-		- Call like http://<PMS>:32400/utils/webtools?Func=SetPref&Secret=<MySecret>&Pref=<myVar>&Value=<Value1>
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.5:
+
+Internal version, never released
+
+* **New**:
+  * [---] API: Added SetPref - Call like http://<PMS>:32400/utils/webtools?Func=SetPref&Secret=<MySecret>&Pref=<myVar>&Value=<Value1>
+
+[Jump to top of page](ChangeLog#top)
 
 ### V0.0.0.4:
 

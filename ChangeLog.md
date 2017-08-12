@@ -18,31 +18,31 @@
   * [#203](../issues/203) UAS: Non UAS 2 UAS
   * [#209](../issues/209) WT: WT Autoupdate broke
   * [#212](../issues/212) WT: Problems with browser caching
-  * [#213](#213)
+  * [#213](../issues/213) WT: Need a Misc function to Unicodize a filepath
+  * [#214](../issues/214) UAS: Channel Update from manual app installer broken
+  * [#215](../issues/215) WT: Fixed removal of "Library" menu when leaving module
+  * [#216](../issues/216) WT: WebTools and ports used
+  * [#218](../issues/218) FM: Extradirs
+  * [#219](../issues/219) WT: Improve detection of bad installation path
+  * [#221](../issues/221) WT: Fixed sorting
+  * [#227](../issues/227) FM: FindMedia failing
+  * [#232](../issues/232) WT: New line in VERSION on git pull
+  * [#233](../issues/233) WT: Hardcoded strings to const/var
+  * [#235](../issues/235) FM: FM Module and Extra dirs
+  * [#237](../issues/237) FM: FM and initialize defaults
+  * [#239](../issues/239) WT: http/credits.txt
+  * [#240](../issues/240) UAS: UAS main screen
+  * [#241](../issues/241) WT: Update Wiki Page
+  * [#243](../issues/243) SUB: Module navigator broken
+  * [#244](../issues/244) WT: Editing the update window
+  * [#245](../issues/245) SUB: Subs identified as Sidecar, when agent based
+  * [#248](../issues/248) WT: Debug mode force uas repo to test branch
 
+* New:
 
-		#213	WT:		Need a Misc function to Unicodize a filepath
-		#214	UAS:		UAS: Channel Update from manual app installer broken
-		#215	WT:		Fixed removal of "Library" menu when leaving module.
-		#216	WT:		WebTools and ports used
-		#218	FM:		Extradirs
-		#219	WT:		Improve detection of bad installation path
-		#221	WT:		Fixed sorting
-		#227	FM:		FindMedia failing
-		#232	WT:		New line in VERSION on git pull
-		#233	WT:		Hardcoded strings to const/var
-		#235	FM:		FM Module and Extra dirs
-		#237	FM:		FM and initialize defaults
-		#239	WT:		http/credits.txt
-		#240	UAS:		UAS main screen
-		#241	WT:		Update Wiki Page
-		#243	SUB:	Module navigator broken
-		#244	WT:		Editing the update window
-		#245	SUB:		Subs identified as Sidecar, when agent based
-		#248	WT:		Debug mode force uas repo to test branch
-	New:
-		#168	WT:		Error message
-		#171	SUB:	Add search function to SUB module for movies
+  * [#168](../issues/168) WT: Error message
+  * [#171](../issues/171) SUB: Add search function to SUB module for movies
+
 		#174	WT:		Notifies if there is a new version upon logon.
 		#177	UAS:		Added force update of repo button/functionality
 		#181	SUB:		Add a download button for sidecar subtitles

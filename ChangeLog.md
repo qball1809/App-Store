@@ -4,6 +4,7 @@ THIS PAGE IS WORK IN PROGRESS
 
 ## Versions:
 
+* [V3.0.0](ChangeLog#v300)   (Not yet released)
 * [V2.4.1](ChangeLog#v241)   (2017-02-19)
 * [V2.4](ChangeLog#v24)   (2017-02-14)
 * [V2.3](ChangeLog#v23)   (2016-10-23)
@@ -33,6 +34,16 @@ THIS PAGE IS WORK IN PROGRESS
 
 
 ***
+
+### V3.0.0:
+
+* **New**:
+  * Brand new backend API V3
+  * GUI completely redesigned, using Angular
+  * Multilingual
+  * New module to manipulate Playlists 
+
+[Jump to top of page](ChangeLog#top)
 
 ### V2.4.1:
 

@@ -11,7 +11,6 @@
 ## V2.4:
 
 * Fix:
-
   * [#166](../issues/166) WT: Themes - v2.2 release - Default theme error
   * [#197](../issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
   * [#202](../issues/202) WT: Added word-wrap to dialogbox

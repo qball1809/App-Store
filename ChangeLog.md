@@ -302,19 +302,26 @@ V0.0.0.5:
 	- Added SetPref
 		- Call like http://<PMS>:32400/utils/webtools?Func=SetPref&Secret=<MySecret>&Pref=<myVar>&Value=<Value1>
 
-V0.0.0.4:
-	Bundle Part:
-	- Added the following:
-		- Switched from putting the prefs in functions.js to settings.js
-		- Added GetLibPath
+### V0.0.0.4:
 
-V0.0.0.3:
-	Bundle Part:
-	- Added the following:
-		- PathExists
-		- ShowSRT
-		- DelSub
+Internal version, never released
 
+* **New**:
+  * [---] API: Added GetLibPath
+  * [---] WT: Switched from putting the prefs in functions.js to settings.js
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.3:
+
+Internal version, never released
+
+* **New**:
+  * [---] API: Added PathExists
+  * [---] API: Added ShowSRT
+  * [---] API: Added DelSub
+
+[Jump to top of page](ChangeLog#top)
 
 ### V0.0.0.2:
 

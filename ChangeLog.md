@@ -94,27 +94,25 @@ THIS PAGE IS WORK IN PROGRESS
   * [#117](../issues/117) UAS: Uninstall unknown bundle
   * [#121](../issues/121) UAS: Cleanup old files/folders when updating
   * [#122](../issues/122) UAS: bundle migration
+  * [#131](../issues/131) UAS: After changing category, focus is no longer set on inputbox
   * [#138](../issues/138) UAS: getAllBundleInfo is reset when UASRepo is updated
+  * [#139](../issues/139) UAS: Unknown bundles without url won't be able to be uninstalled or re-installed
+  * [#140](../issues/140) UAS: Migrate now always goes back to showing ALL available bundles
+  * [#145](../issues/145) SUB: Fixed display of undefined when deleting sidecars
+  * [#159](../issues/159) LOGS: Fix for incorrect highlights when searching for "Warn"
+  * [#161](../issues/161) THEMES: Partial fix, now retains correct coloring
+  * [#161](../issues/161) THEMES: Request for element isolation
+  * [---] SUB: Added more logging for uploads
 * **New**:
+  * [#126](../issues/126) UAS: Allow WebTools to autoupdate
   * [#129](../issues/129) UAS: Alllow 3.Party devs to clear their stuff
   * [#135](../issues/135) WT: Tell users, if wrong install path is used
   * [#137](../issues/137) WT: Add new decorator for auth
-  * [#126](../issues/126) UAS: Allow WebTools to autoupdate
   * [---] WT: Added a language module for devs
+  * [---] WT: Added a reset function, that will reset to factory settings
 
 
-		###  WT: Added a reset function, that will reset to factory settings
 
-FRONTEND:
-	Fix:
-		#131 UAS: After changin category, focus is no longer set on inputbox
-		#139 UAS: Unknown bundles without url won't be able to be uninstalled or re-installed.
-		#140 UAS: Migrate now always goes back to showing ALL available bundles
-		##   Subtitlemgmt: Added more logging for uploads. And fixed bug reported by Dane22 about uploads.
-		#145 Subtitlemgmt: Fixed display of undefined when deleting sidecars.
-		#159 LogViewer: Fix for incorrect highlights when searching for "Warn"
-		#161 UAS: Partial fix, now retains correct coloring.
-		#161 Themes: Added select and input tag css to default.css.
 	New:
 		#126 UAS: Allow WebTools to autoupdate
 		#142 LogViewer: Search for keywords, highlighting of the same. Jump to top.

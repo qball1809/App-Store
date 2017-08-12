@@ -8,6 +8,11 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.9](ChangeLog#v0009)
+* [V0.0.0.8](ChangeLog#v0008)
+* [V0.0.0.7](ChangeLog#v0007)
+* [V0.0.0.6](ChangeLog#v0006)
+* [V0.0.0.5](ChangeLog#v0005)
 * [V0.0.0.4](ChangeLog#v0004)
 * [V0.0.0.3](ChangeLog#v0003)
 * [V0.0.0.2](ChangeLog#v0002)
@@ -283,29 +288,43 @@ V0.0.0.10:
 	- Consolidated the changelog, merging the http part of it into this file
 			- There's now only one changelog file
 
-V0.0.0.9:
-	Bundle Part:
-	- Fixed GetXML function
-	- Made sure that settings set are with forward slash when entered with back-slash
-	- Fixed auth error.....Again.....SIGH.....
+[Jump to top of page](ChangeLog#top)
 
-V0.0.0.8:
-	Bundle Part:
-	- Hopefully fixed auth error
+### V0.0.0.9:
 
-V0.0.0.7:
-	Bundle Part:
-	- Added randomizer to the secret
+**First public release**
+
+* **Fix**:
+  * [---] API: Fixed GetXML function
+  * [---] API: Made sure that settings set are with forward slash when entered with back-slash
+  * [---] API: Fixed auth error.....Again.....SIGH.....
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.8:
+
+Internal version, never released
+
+* **New**:
+  * [---] API: Hopefully fixed auth error
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.7:
+
+Internal version, never released
+
+* **New**:
+  * [---] API: Added randomizer to the secret
+
+[Jump to top of page](ChangeLog#top)
 
 ### V0.0.0.6:
 
 Internal version, never released
 
 * **New**:
-
-	Bundle Part:
-	- Removed PathToLib function
-	- PathToLib variable will now be stamped during startup to settings.js
+  * [---] API: Removed PathToLib function. PathToLib variable will now be stamped during startup to settings.js
 
 [Jump to top of page](ChangeLog#top)
 
@@ -314,7 +333,7 @@ Internal version, never released
 Internal version, never released
 
 * **New**:
-  * [---] API: Added SetPref - Call like http://<PMS>:32400/utils/webtools?Func=SetPref&Secret=<MySecret>&Pref=<myVar>&Value=<Value1>
+  * [---] API: Added SetPref - Call like http://PMS:32400/utils/webtools?Func=SetPref&Secret=MySecret&Pref=myVar&Value=Value1
 
 [Jump to top of page](ChangeLog#top)
 

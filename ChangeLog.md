@@ -146,37 +146,6 @@ THIS PAGE IS WORK IN PROGRESS
 		
 [Jump to top of page](ChangeLog#top)
 
-####
-
-V2.2-DEV-2016-02-25:
-UAS:
-	The return of the Uninstall-button (Issue #132)
-WebTools:
-	Implemented update of main plugin. This however currently causes an error in the logs.
-	
-V2.2-DEV-2016-02-19:
-UAS:
-	Changed focus after showing channel. This should not bring up the keyboard on mobile devices anymore.
-
-V2.2-DEV-2016-02-02:
-UAS:
-	Reverting Issue #119 because of reported issue with locked interface.
-	Now displays message regarding permissions. (Issue #124)
-	Now showing Check for updates for everything that has a repolink. (Issue #118, Issue #127)
-WebTools:
-	Moved Changelog to Options menu (Issue #128)
-	
-V2.2-DEV-2016-01-26:
-LogViewer:
-	Now highlights exception in the same was as critical. (Issue #108)
-WebTools:
-	Now highlights exception in the same was as critical when viewing logs. (Issue #108)
-	Added "View Changelog" under Logs menu. This allows viewing of entire changelog. (Issue #128)
-UAS:
-	When selecting "ShowOnlyInstalled", only categories with installed plugins are shown. (Issue #119)
-
-[Jump to top of page](ChangeLog#top)
-
 ### V2.1:
 
 Sadly lost info about what changed in that version

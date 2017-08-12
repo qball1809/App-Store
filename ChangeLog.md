@@ -8,6 +8,7 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.1](ChangeLog#v0001)
 
 ### V2.4.1:
 
@@ -319,28 +320,20 @@ V0.0.0.2:
 	- Added prefs
 	- Will now update functions.js based on prefs
 
-V0.0.0.1:
-	HTTP Part:
-	- both
-		- Can now view subtitles via the view link
-	- movies
-		- Can list them
-		- Can list subtitles
-		- Shows if it's a integrated subtitle or not.
-			- Hides checkbox and view accordingly.
-	- show
-		- Can list them
-		- Can list seasons
-		- Uses above "movies" for episodelists
-	- Options:
-		- Can change items-per-page
-		- Only refreshes display if sections_contents is not empty.
-		- Hide local subtitles is now working correctly
-		- Hide integrated subtitles is now working correctly
-		- Hide videos without subtitles is now working correctly
-		- Show only multiple/language works
-	- Logs:
-		- Limited display on page to 5 log entries.
-		- Enabled a "View Logs" function that opens a new window, displaying all logs.
+### V0.0.0.1:
 
+* **New**:
+  * [---] SUBS: Can now view subtitles via the view link
+  * [---] SUBS: Can list movies and seasons
+  * [---] SUBS: Can list subtitles
+  * [---] SUBS: Can show if subtitle is sidecar or not, and hide check boxes accordingly
+  * [---] WT: Can change items-per-page
+  * [---] WT: Only refreshes display if sections_contents is not empty
+  * [---] WT: Hide local subtitles is now working correctly
+  * [---] SUBS: Hide integrated subtitles is now working correctly
+  * [---] SUBS: Hide videos without subtitles is now working correctly
+  * [---] SUBS: Show only multiple/language works
+  * [---] LOGS: Limited display on page to 5 log entries
+  * [---] LOGS: Enabled a "View Logs" function that opens a new window, displaying all logs
 
+[Jump to top of page](ChangeLog#top)

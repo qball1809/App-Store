@@ -8,6 +8,7 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.2](ChangeLog#v0002)
 * [V0.0.0.1](ChangeLog#v0001)
 
 ### V2.4.1:
@@ -313,12 +314,17 @@ V0.0.0.3:
 		- PathExists
 		- ShowSRT
 		- DelSub
-	
-V0.0.0.2:
-	Bundle Part:
-	- Added channel menu
-	- Added prefs
-	- Will now update functions.js based on prefs
+
+
+### V0.0.0.2:
+
+* **Fix**:
+  * [---] WT: Will now update functions.js based on prefs
+* **New**:
+  * [---] WT: Added channel menu
+  * [---] WT: Added prefs
+
+[Jump to top of page](ChangeLog#top)
 
 ### V0.0.0.1:
 

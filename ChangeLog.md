@@ -36,7 +36,8 @@
   * [#244](../issues/244) WT: Editing the update window
   * [#245](../issues/245) SUB: Subs identified as Sidecar, when agent based
   * [#248](../issues/248) WT: Debug mode force uas repo to test branch
-  * [#168](../issues/168) WT: Error message NEW
+* New:
+  * [#168](../issues/168) WT: Error message
   * [#171](../issues/171) SUB: Add search function to SUB module for movies
   * [#174](../issues/174) WT: Notifies if there is a new version upon logon
   * [#177](../issues/177) UAS: Added force update of repo button/functionality

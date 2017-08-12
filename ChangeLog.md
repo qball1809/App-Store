@@ -1,5 +1,7 @@
 # This is the changelog for WebTools
 
+THIS PAGE IS WORK IN PROGRESS
+
 ## Versions:
 
 * [V2.4.1](ChangeLog#v241)
@@ -43,7 +45,7 @@
   * [#244](../issues/244) WT: Editing the update window
   * [#245](../issues/245) SUB: Subs identified as Sidecar, when agent based
   * [#248](../issues/248) WT: Debug mode force uas repo to test branch
-* New:
+* **New**:
   * [#168](../issues/168) WT: Error message
   * [#171](../issues/171) SUB: Add search function to SUB module for movies
   * [#174](../issues/174) WT: Notifies if there is a new version upon logon
@@ -60,7 +62,7 @@
 
 ### V2.3:
 
-* Fix:
+* **Fix**:
   * [#110](../issues/110) UAS: Allow it to fetch from release info as well
   * [#134](../issues/134) UAS: Wrong time for Latest Update on Github
   * [#165](../issues/165) LOGS: Fixed issue with spaces in filenames
@@ -74,7 +76,7 @@
   * [#189](../issues/189) WT: Fix for startup issue if on Windows and lang is set to CP1251
   * [#190](../issues/190) LOGS: Fix for issue with cyrilian characters, when not running UTF-8
   * [#197](../issues/197) SUB: Error while deleting any subtitle (Sub-Zero, and file stored within metadata)
-* New:
+* **New**:
   * [#170](../issues/170) WT: Added a user guide from Trumpy81. URL is /manual/WebTools-User-Manual.pdf
   * [#171](../issues/171) PMS: Added Search to the backend
   * [#175](../issues/175) PMS: Autodownload Repo if json is missing
@@ -86,12 +88,13 @@
 
 ### V2.2:
 
-BACKEND:
-	Fix:
-		#115 UAS: Migration fails, if plugin directory contains hidden folder
-		#116 UAS: Make UAS work, even if a git is dir levels too low
-		#117 UAS and uninstall unknown bundle
-		#121 UAS: Cleanup old files/folders when updating
+* **Fix**:
+  * [#115](../issues/115) UAS: Migration fails, if plugin directory contains hidden folder
+  * [#116](../issues/116) UAS: Make UAS work, even if a git is dir levels too low
+  * [#117](../issues/117) UAS: Uninstall unknown bundle
+  * [#121](../issues/121) UAS: Cleanup old files/folders when updating
+
+
 		#122 UAS: bundle migration
 		#138 UAS: getAllBundleInfo is reset when UASRepo is updated
 	New:

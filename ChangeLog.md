@@ -1,7 +1,5 @@
 # This is the changelog for WebTools
 
-THIS PAGE IS WORK IN PROGRESS
-
 ## Versions:
 
 * [V3.0.0](ChangeLog#v300)   (Not yet released)

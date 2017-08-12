@@ -1,6 +1,6 @@
 # This is the changelog for WebTools
 
-## V2.4.1
+### V2.4.1
 
 * Fix:
   * [#264](https://github.com/ukdtom/WebTools.bundle/issues/264) UAS: v2.4 of WebTools UnsupportedAppStore Error

@@ -8,6 +8,12 @@ THIS PAGE IS WORK IN PROGRESS
 * [V2.4](ChangeLog#v24)
 * [V2.3](ChangeLog#v23)
 * [V2.2](ChangeLog#v22)
+* [V0.0.0.15](ChangeLog#v0015)
+* [V0.0.0.14](ChangeLog#v0014)
+* [V0.0.0.13](ChangeLog#v0013)
+* [V0.0.0.12](ChangeLog#v0012)
+* [V0.0.0.11](ChangeLog#v0011)
+* [V0.0.0.10](ChangeLog#v0010)
 * [V0.0.0.9](ChangeLog#v0009)
 * [V0.0.0.8](ChangeLog#v0008)
 * [V0.0.0.7](ChangeLog#v0007)
@@ -257,36 +263,54 @@ V0.0.0.16:
 	- Added Token handling.
 	- Changed viewing of subtitles and logs to be handled by Modal instead.
 	- Corrected text on welcome page.
-V0.0.0.15:
-	Bundle Part:
-	- Added Token authentication, if needed
-	- Added new setting to the settings file, to be used by the http part
-	- Removed old changelog file from the http part
-	- Changed the Windows Symblink file into creating a hardlink instead of a junction
-	- Added a restart function to the bundle part, to be used by the devs only
-	- moved creation of symblink, tokens and secret to the validateprefs function from the start function
 
-V0.0.0.14:
-	HTTP Part:
-	- Corrected viewing of Subtitles. Functioncall was wrong.
+[Jump to top of page](ChangeLog#top)
 
-V0.0.0.13:
-	HTTP Part:
-	- Attempted to fix caching issues.
-V0.0.0.12:
-	Bundle Part:
-	- Added icon
+### V0.0.0.15:
 
-V0.0.0.11:
-	Bundle Part:
-	- Bundle will now warn Windows users, if the forgot to run the cmd file
+* **New**:
+  * [---] API: Added Token authentication, if needed
+  * [---] WT: Added new setting to the settings file, to be used by the http part
+  * [---] WT: Added a restart function to the bundle part, to be used by the devs only
+* **Fix**:
+  * [---] WT: Removed old changelog file from the http part
+  * [---] WT: Changed the Windows Symblink file into creating a hardlink instead of a junction
+  * [---] WT: Moved creation of symblink, tokens and secret to the validateprefs function from the start function
 
-V0.0.0.10:
-	Bundle Part:
-	- Moved version number to settings.py
-			- Version number is now a shared number between the webpart and the bundle part
-	- Consolidated the changelog, merging the http part of it into this file
-			- There's now only one changelog file
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.14:
+
+* **Fix**:
+  * [---] SUBS: Corrected viewing of Subtitles. Functioncall was wrong.
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.13:
+
+* **Fix**:
+  * [---] WT: Attempted to fix caching issues.
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.12:
+
+* **New**:
+  * [---] WT: Added icon
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.11:
+
+* **New**:
+  * [---] WT: WT will now warn Windows users, if they forgot to run the cmd file
+
+[Jump to top of page](ChangeLog#top)
+
+### V0.0.0.10:
+
+* **New**:
+  * [---] WT: Moved version number to settings.py. Version number is now a shared number between the webpart and the bundle part
 
 [Jump to top of page](ChangeLog#top)
 

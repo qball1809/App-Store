@@ -38,4 +38,6 @@ That will allow you to quickly switch the certificate files should you encounter
 
 > **Note:** After any changes to the certificates or the base URL, you may need to stop and then restart your Plex Media Server and please, do not forget to click on 'Save' after making any changes to the settings.
 
-[[Back to the Home page|Home]]
+[[Home|Home]]
+[[Back|About]]
+[[Next|Locate-WT]]

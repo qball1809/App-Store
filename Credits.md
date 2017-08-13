@@ -25,8 +25,6 @@ The idea of an Unsupported AppStore was conceived by mikedm139, the original aut
 ## And Many Thanks To
 The talented and hard working authors/developers and staff at Plex. We are eternally grateful for your dedication and hard work.
 
-A huge thanks goes out to all of our Beta testers and translators as well.
-
 And our friends at [POEditor.com](https://poeditor.com), and since we are an [Open-Source project](https://poeditor.com/help/faq#What-are-Open-Source-projects), they provided us with a free translation site.
 
 ## Your Support

@@ -5,6 +5,6 @@ Write some stuff about the UAS Module
 
 [[Home|Home]]
 
-[[Back|Subs]]
+[[Back|Logs]]
 
 [[Next|]]

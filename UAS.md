@@ -3,4 +3,8 @@
 Write some stuff about the UAS Module
 
 
-[[Back to the Home page|Home]]
+[[Home|Home]]
+
+[[Back|Subs]]
+
+[[Next|]]

@@ -8,7 +8,7 @@ This plugin was made by a combined effort of the following people:
 ## Custom Themes
 trumpy81
 
-## Documentation
+## Wiki
 trumpy81
 
 ## Translations

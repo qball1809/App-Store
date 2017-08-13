@@ -22,4 +22,4 @@ Allows you to copy playlists between users, as well as import, export and delete
 ## Help
 If you need help with any of the above Tool modules, click on the ? icon at the top of the page.
 
-[[Back to the Home page|Home]]
+[[Back|Home]]

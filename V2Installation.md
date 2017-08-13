@@ -16,7 +16,7 @@ If you want/need to install WebTools manually, follow these steps:
 **Note:** You cannot currently install WebTools on the Nvidia Shield TV. See the Plex [Nvidia Shield](https://forums.plex.tv/categories/nvidia-shield) forum for details.
 
 Your Plug-ins folder should look something like this after manually installing WebTools.
-![](https://github.com/ukdtom/WebTools.bundle/tree/master/Wiki/WebTools/images/IWT-image01.jpg)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/images/IWT-image01.png)
 
 YUN = Your User Name.
 

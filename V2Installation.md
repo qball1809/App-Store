@@ -6,7 +6,7 @@ If you are running Windows, Asustor, QNAP or Synology, you will find easy to ins
 ### Manual Installation
 If you want/need to install WebTools manually, follow these steps:
 
-* [Download WebTools here](https://github.com/dagalufh/WebTools.bundle/releases/latest) 
+* [Download WebTools here](https://github.com/ukdtom/WebTools.bundle/releases/latest) 
 * Extract all files from the zip file
 * Copy the extracted files to the [Plug-ins directory](https://support.plex.tv/hc/en-us/articles/201106098)
 * Make sure the directory is named WebTools.bundle (and **NOT** WebTools.bundle-master)
@@ -16,7 +16,7 @@ If you want/need to install WebTools manually, follow these steps:
 **Note:** You cannot currently install WebTools on the Nvidia Shield TV. See the Plex [Nvidia Shield](https://forums.plex.tv/categories/nvidia-shield) forum for details.
 
 Your Plug-ins folder should look something like this after manually installing WebTools.
-![](http://trumpy.net/WTimages/IWT-image01.jpg)
+![](https://github.com/ukdtom/WebTools.bundle/tree/master/Wiki/WebTools/images/IWT-image01.jpg)
 
 YUN = Your User Name.
 

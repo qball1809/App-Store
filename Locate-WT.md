@@ -16,6 +16,6 @@ If you have not installed or configured WebTools yet, then see the following pag
 
 [[Home|Home]]
 
-[[Back|]]
+[[Back|Configure]]
 
 [[Next|Subs]]

@@ -34,4 +34,8 @@ Clicking on the 'Download all log files in a ZIP file' will download all of the 
 
 This is very handy when you need help with diagnosing an issue with your Plex Media Server in the Plex forums.
 
-[[Back to the Home page|Home]]
+[[Home|Home]]
+
+[[Back|Subs]]
+
+[[Next|UAS]]

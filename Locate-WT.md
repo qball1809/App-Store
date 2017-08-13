@@ -14,4 +14,8 @@ If you have not installed or configured WebTools yet, then see the following pag
 * [[Installing WebTools|Install]]
 * [[Configure WebTools|Configure]]
 
-[[Back to the Home page|Home]]
+[[Home|Home]]
+
+[[Back|]]
+
+[[Next|Subs]]

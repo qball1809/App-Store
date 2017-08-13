@@ -1,4 +1,4 @@
-Welcome to the WebTools.bundle wiki!
+Welcome to the WebTools.bundle V2 wiki!
 
 This bundle is a plugin for the [Plex Media Server](https://plex.tv/) that will assist you in maintaning your Plex Media Server by a few modules, installed with WebTools.
 

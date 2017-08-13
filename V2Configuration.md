@@ -13,4 +13,4 @@ You are now ready to rock, so browse to:
 **NOTE:**
 Do **NOT** set the port to 32400, since that's already used by Plex
 
-[Back...](https://github.com/dagalufh/WebTools.bundle/wiki)
+[Back...](V2Home)

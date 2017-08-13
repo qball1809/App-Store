@@ -20,4 +20,8 @@ Your Plug-ins folder should look something like this after manually installing W
 
 YUN = Your User Name.
 
-[[Back to the Home page|Home]]
+[[Home|Home]]
+
+[[Back|About]]
+
+[[Next|Configure]]

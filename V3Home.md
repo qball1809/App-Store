@@ -16,3 +16,5 @@ WebTools is a plug-in designed to help users of Plex Media Server, organise and 
 For information about how to install and use the WebTools plug-in, **use the menu on the right hand side of the screen.**
 
 A huge thanks goes to [POEditor](https://poeditor.com), they kindly provided us with a translation site for free, since WebTools is an Open-Source project
+
+[[Next|About]]

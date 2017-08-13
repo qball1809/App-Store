@@ -24,4 +24,4 @@ If you need help with any of the above Tool modules, click on the ? icon at the 
 
 [[Back|Home]]
 
-[[Next|Configure]]
+[[Next|Install]]

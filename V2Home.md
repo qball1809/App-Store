@@ -14,7 +14,7 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 ***
 
 * [Installation](https://github.com/dagalufh/WebTools.bundle/wiki/Installation)
-* [Configuration](https://github.com/dagalufh/WebTools.bundle/wiki/Configuration)
+* [Configuration](V2Configuration)
 * [Usage](https://github.com/dagalufh/WebTools.bundle/wiki/Usage)
 * [Troubleshooting](https://github.com/dagalufh/WebTools.bundle/wiki/Troubleshooting)
 * [Contact](https://github.com/dagalufh/WebTools.bundle/wiki/Contact)

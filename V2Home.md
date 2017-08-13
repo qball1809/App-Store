@@ -13,10 +13,10 @@ What this plugin can do, is that it will allow you to gather an overview of subt
 
 ***
 
-* [Installation](https://github.com/dagalufh/WebTools.bundle/wiki/Installation)
+* [Installation](V2Installation)
 * [Configuration](V2Configuration)
-* [Usage](https://github.com/dagalufh/WebTools.bundle/wiki/Usage)
-* [Troubleshooting](https://github.com/dagalufh/WebTools.bundle/wiki/Troubleshooting)
-* [Contact](https://github.com/dagalufh/WebTools.bundle/wiki/Contact)
-* [Forum](https://github.com/dagalufh/WebTools.bundle/wiki/Forum)
-* [Developer](https://github.com/dagalufh/WebTools.bundle/wiki/Developer)
+* [Usage](V2Usage)
+* [Troubleshooting](V2Troubleshooting)
+* [Contact](V2Contact)
+* [Forum](V2Forum)
+* [Developer](V2Developer)

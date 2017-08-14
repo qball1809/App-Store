@@ -2,7 +2,7 @@
 * [[Home|V2Home]]
 
 ***
-## WebTools V3 (Not yet released)
+## WebTools V3 (Not yet released, so do not click below!)
 * [[Home|V3Home]]
 * [[About WebTools|About]]
 * [[Installing WebTools|Install]]

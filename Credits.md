@@ -12,7 +12,7 @@ trumpy81
 trumpy81
 
 ## Translations
-A **huge** thanks goes out to all the people that helped in translating WebTools
+A **huge** thanks goes out to all the people that helped in translating WebTools.
 If you in WebTools itself visit the About page,you will see a list of the dedicated folks
 
 ## Beta Testers

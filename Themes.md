@@ -2,6 +2,8 @@
 
 Clicking on the Theme menu button will present you with a number of buttons. Each button represents a set of colours to be used by WebTools.
 
+**HUGE** credit goes out to trumpy81, since he created most of them!
+
 By default there are a number of pre-defined Themes for you to choose from.
 
 However, if you wish to create your own custom theme you may start by copying an existing theme file in the `/WebTools.bundle/http/custom_themes` folder and rename the file to mycustomtheme.css or any descriptive name you desire. You must ensure that the file extension, .css remains.

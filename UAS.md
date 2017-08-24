@@ -9,7 +9,7 @@ Entering the UAS (Unsupported App Store) you will be presented with a similar vi
 
 The manual installation text box allows you to quickly add a plug-in that has not already been included within the UAS. A typical url might look like this:
 
-https://github.com/kolsys/YouTubeTV.bundle
+https://github.com/ukdtom/ExportTools.bundle
 
 Simply enter that address into the Manual Installation text box and then click on the Manual Install button. UAS will then import the plug-in into your Plex Media Server and make it available under the unknown category in the UAS.
 
@@ -20,7 +20,7 @@ Simply enter that address into the Manual Installation text box and then click o
 The three buttons shown above have the following functions:
 
 1. Migrate. This button allows you to import plug-ins that you have installed prior to installing WebTools and plug-ins that are not included in the Unsupported App Store.
-2. Force UAS Update. This will force the UAS to update all available plug-ins. Note: This may take several minutes to complete and during that time the UAS page may not be displayed.
+2. Force UAS Update. This will force the UAS Repo to be re-downloaded from GitHub. Note: This may take several minutes to complete and during that time the UAS page may not be displayed.
 3. Check for plug-in updates. This will check all of your installed plug-ins for updates.
 
 ## The Plug-ins

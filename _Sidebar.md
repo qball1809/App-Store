@@ -26,7 +26,7 @@
 ### Help
 * [[WT Forum Thread|WT-Forum]]
 * [[WT Github|WT-Github]]
-* [[WT Help|WT-Help]]
+* [[WT Manual|WT-Manual]]
 
 ### Credits
 * [[Credits|Credits]]

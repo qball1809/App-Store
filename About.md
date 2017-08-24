@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) About WebTools 4 Plex
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) About WebTools for Plex
 
 WebTools is a plug-in, that contains a few tool modules, that will assist you in running a [Plex Media Server](https://www.plex.tv/)
 

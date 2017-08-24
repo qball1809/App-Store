@@ -1,6 +1,4 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Logs
-
-One huge difference between that the logs you download from Plex WebClient and WebTools, is that WebTools downloads log files for 3.Party Channels/Plug-Ins as well!
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Logs (PMS)
 
 When you enter the Log Viewer Tool you will be presented with a similar view as shown in the image below:
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logs/LV-image01.png)
@@ -32,7 +30,7 @@ Clicking on the 'Download the selected log file' button will download the curren
 
 Clicking on the 'Download all log files in a ZIP file' will download all of the available Plex log files in a .zip archive, to a location on your computer.
 
-This is very handy when you need help with diagnosing an issue with your Plex Media Server in the Plex forums.
+This is very handy when you need help with diagnosing an issue with your Plex Media Server in the Plex forums, and compared to the [build-in log download function in PMS](https://support.plex.tv/hc/en-us/articles/200250417-Plex-Media-Server-Log-Files), this one not only preserve the file structure and file dates, but also include logs from 3.Party plugins.
 
 [[Home|Home]]
 

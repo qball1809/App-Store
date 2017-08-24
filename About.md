@@ -20,7 +20,7 @@ Makes it possible to locate your media, that is either missing from the database
 Allows you to copy playlists between users, as well as import, export and delete them.
 
 ## Help
-If you need help with any of the above Tool modules, click on the ? icon at the top of the page.
+If you need help with any of the above Tool modules, click on the ? icon at the top of the page, for a short help, or read this Wiki for a more detailed explanation
 
 [[Back|Home]]
 

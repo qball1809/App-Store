@@ -1,7 +1,7 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Theme
 
 First of all....
-**HUGE** credit goes out to trumpy81, since he created most of them!
+**HUGE** credit goes out to trumpy81, since he created most of the themes!
 
 Clicking on the Theme menu button will present you with a number of buttons. Each button represents a set of colours to be used by WebTools.
 

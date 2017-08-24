@@ -1,6 +1,6 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Manage Subs (Subtitles)
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Sub Management
 
-When you click on the Manage Subs button on the Tool menu you will be presented with a list of your libraries that you have set up in your Plex Media Server as shown in the image below.
+When you click on the Sub Management button on the Tool menu you will be presented with a list of your libraries that you have set up in your Plex Media Server as shown in the image below.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image01.png)
 
@@ -46,5 +46,6 @@ When you click on a Season button you will be presented with the files within th
 Clicking on the <-- Name of TV Show: Season # title bar will return you to the TV Show library where you are able to select another TV Show Season if desired.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image05.png)
+
 
 [[Back to the Home page|Home]]

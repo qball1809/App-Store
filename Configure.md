@@ -2,11 +2,11 @@
 
 In order to configure WebTools, open the Plex home page in your Web Browser and then click on Channels (See: * [[Locating WebTools|Locate-WT]]) and locate the WebTools poster. Now move your mouse over the poster until you see the icons as shown below. Click on the Gear icon (shown in the red box).
 
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Configuration/LWT-image01.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Configuration/CWT-image01.png)
 
 You will then be presented with the following dialogue:
 
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Configuration/LWT-image02.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Configuration/CWT-image02.png)
 
 In the WebTools Settings dialogue you are able to set the port number on which to communicate with WebTools. Normally, you would add this port number to the end of your Plex Media Server's IP Address in your Web Browser, like so:
 

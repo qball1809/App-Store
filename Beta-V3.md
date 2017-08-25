@@ -33,4 +33,4 @@ To sign up for the beta, please send a msg to XXX on the Plex forums
 
 ### Credits
 
-If you sign up for the beta, you will me mentioned in the credits page of WebTools, with your Plex form NickName
+If you sign up for the beta, you will be mentioned in the credits page of WebTools, with your Plex form NickName, unless you opt. out of that

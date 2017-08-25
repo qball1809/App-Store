@@ -10,7 +10,7 @@
 * [[Locating WebTools|Locate-WT]]
 
 ### Tools
-* [[Manage Subs (Subtitles)|Subs]]
+* [[Sub Management|Subs]]
 * [[Logs (PMS)|Logs]]
 * [[UAS (Unsupported App Store)|UAS]]
 * [[Find Media|FindMedia]]

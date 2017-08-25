@@ -5,6 +5,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 * Requirements
   * You must accept, that this is beta software!
   * You must be able to manually install WebTools, since auto update will not work
+  * You must be able to manually grab the WebTools log files from your PMS
   * No support will be given to installation issues! If you can't install it manually, then sorry, but then you are not beta material
   * You must sign up for our Slack. (Link given, when signing up)
   * You must sign up for our translation site. (Link given, when signing up)

@@ -14,4 +14,6 @@ Clicking on the 'Force Language Translation Update` button will update your lang
 
 All text strings start out as English, but by clicking on the [POEditor](https://poeditor.com/join/project/8uRxEmAE4M) link, you can join up to help correct the text strings for your language and change those English text strings to text strings in your language.
 
-[[Back to the Home page|Home]]
+***
+
+[[Home|Home]] | [[Back|Logout]] | [[Next|Themes]]

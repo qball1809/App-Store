@@ -6,4 +6,6 @@ You may also click on the [Issues](https://github.com/dagalufh/WebTools.bundle/i
 
 You may also click on the [Wiki](https://github.com/dagalufh/WebTools.bundle/wiki) tab which will bring you to these very helpful pages.
 
-[[Back to the Home page|Home]]
+***
+
+[[Home|Home]] | [[Back|WT-Forum]] | [[Next|WT-Manual]]

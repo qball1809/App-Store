@@ -12,4 +12,4 @@ The WebTools Development Team
 
 ***
 
-[[Home|V3Home]] | [[Back|Credits]] | [[Next|Contact]]
+[[Home|Home]] | [[Back|Credits]] | [[Next|Contact]]

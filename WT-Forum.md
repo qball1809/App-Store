@@ -2,4 +2,8 @@
 
 The WT Forum button will take you to the [WebTools](http://forums.plex.tv/discussion/126254/rel-webtools/p1) forum pages on the Plex forums website.
 
-[[Back to the Home page|Home]]
+You should go there if you are experiencing difficulties with WebTools.
+
+***
+
+[[Home|Home]] | [[Back|Reset]] | [[Next|WT-Github]]

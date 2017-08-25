@@ -7,3 +7,7 @@ When you click on logout, WebTools will do just that, log you out and the next t
 Just remember, in order to keep your server and WebTools secure, always click on the logout button before closing your web browser.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-256.png)
+
+***
+
+[[Home|V3Home]] | [[Back|Playlists]] | [[Next|Language]]

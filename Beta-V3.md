@@ -28,3 +28,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 ### Signup
 
 To sign up for the beta, please send a msg to XXX on the Plex forums
+
+### Credits
+
+If you sign up for the beta, you will me mentioned in the credits page of WebTools, with your Plex form NickName

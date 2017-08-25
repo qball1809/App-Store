@@ -2,6 +2,10 @@
 * [[Home|V2Home]]
 
 ***
+### Beta V3
+* [[Beta program|Beta-V3]]
+
+***
 ## WebTools V3 (Not yet released, so do not click below!)
 * [[Home|V3Home]]
 * [[About WebTools|About]]
@@ -37,6 +41,3 @@
 
 ### Contact
 * [[Contact|Contact]]
-
-### Beta V3
-* [[Beta program|Beta-V3]]

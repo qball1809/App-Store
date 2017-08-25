@@ -35,4 +35,6 @@ Thank you for your support!!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2PUDZF8LK8MUC)<br>
 
-[[Home|Home]]
+***
+
+[[Home|Home]] | [[Back|WT-Manual]] | [[Next|Developer]]

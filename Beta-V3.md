@@ -4,7 +4,7 @@
 ## Beta program
 
 Yes, we do have a Beta program, and that's your chance to not only try out the bleeding edge of WebTools, but also help the Plex community as a whole.
-Besides that, you as a Beta tester also engage directly with the developers of WebTools, so if something is on your mind here regarding WebTools, then this is indeed the place to be
+Besides that, you as a Beta tester also engage directly with the developers of WebTools, so if something is on your mind regarding WebTools, then this is indeed the place to be
 
 If you want to participate in the beta program for WebTools V3, then it does involve a few things:
 

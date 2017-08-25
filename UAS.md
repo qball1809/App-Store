@@ -53,4 +53,4 @@ Clicking on a Category will also display all available plug-ins within that Cate
 
 ***
 
-[[Home|Home]] | [[Back|Logs]] | [[Next|]]
+[[Home|Home]] | [[Back|Logs]] | [[Next|Playlists]]

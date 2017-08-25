@@ -6,4 +6,4 @@ If you have any questions regarding WebTools or these Wiki help pages, then plea
 
 ***
 
-[[Home|Home]] | [[Back|WT-Github]] | [[Next|Credits]]
+[[Home|Home]] | [[Back|WT-Github]] | [[Next|Known Issues]]

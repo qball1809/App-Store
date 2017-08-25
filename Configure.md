@@ -40,4 +40,4 @@ That will allow you to quickly switch the certificate files should you encounter
 
 ***
 
-[[Home|Home]] | [[Back|About]] | [[Next|Locate-WT]]
+[[Home|Home]] | [[Back|Install]] | [[Next|Locate-WT]]

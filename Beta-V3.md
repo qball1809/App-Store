@@ -6,7 +6,7 @@
 Yes, we do have a Beta program, and that's your chance to not only try out the bleeding edge of WebTools, but also help the Plex community as a whole.
 Besides that, you as a Beta tester also engage directly with the developers of WebTools, so if something is on your mind here regarding WebTools, then this is indeed the place to be
 
-If you want to participate in the beta program for WebTools V3, then it do involves a few things:
+If you want to participate in the beta program for WebTools V3, then it does involve a few things:
 
 ### Requirements
 
@@ -14,7 +14,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
   * You must accept, that this is beta software!
   * You must be able to manually install WebTools, since auto update will not work
   * You must be able to manually grab the WebTools log files from your PMS
-  * No support will be given to installation issues! If you can't install it manually, then sorry, but then you are not beta material
+  * No support will be given for installation issues! If you can't install it manually, then sorry, you are not beta tester material.
   * You must sign up for our Slack. (Link given, when signing up)
   * You must [create a GitHub account](https://github.com/join?source=header-repo), if not already having one
   * You must sign up for our translation site. (Link is in the Slack)
@@ -26,7 +26,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 * Testing
   * You should test as many functions of WebTools as possible
 * Bug Reporting
-  * If you are facing a bug, and it's not listed [here](https://github.com/ukdtom/WebTools.bundle/issues?q=is%3Aopen+is%3Aissue+milestone%3AV3.0.0), then you must [create](https://github.com/ukdtom/WebTools.bundle/issues/new) a GitHub Issue
+  * If you are facing a bug, and it's not listed [here](https://github.com/ukdtom/WebTools.bundle/issues?q=is%3Aopen+is%3Aissue+milestone%3AV3.0.0), then you must [create](https://github.com/ukdtom/WebTools.bundle/issues/new) a new GitHub Issue
 * Questions
   * Start by checking the [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) first please
   * If you still have a question during beta testing, it should be asked in our Slack
@@ -34,8 +34,8 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 
 ### Signup
 
-To sign up for the beta, please send a msg to **XXX** on the Plex forums, and tell me your email address, as well as mention this beta, so I can send you a Slack Invite
+To sign up for the beta, please send a msg to **XXX** on the Plex forums, and tell me your email address, as well as mention this beta, so that I can send you a Slack Invite.
 
 ### Credits
 
-If you sign up for the beta, you will be mentioned in the credits page of WebTools, with your Plex form NickName, unless you opt. out of that
+If you sign up for the beta, you will be mentioned in the credits page of WebTools, with your Plex forum NickName, unless you opt. out of that.

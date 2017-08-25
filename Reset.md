@@ -8,5 +8,6 @@ You will need to migrate your previously installed plug-ins once again after usi
 
 See the [[UAS (Unsupported App Store)|UAS]]
 
+***
 
-[[Back to the Home page|Home]]
+[[Home|Home]] | [[Change Log|Change-Log]] | [[WT Forum Thread|WT-Forum]]

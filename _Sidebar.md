@@ -2,7 +2,7 @@
 * [[Home|V2Home]]
 
 ***
-### Beta V3
+## Beta V3
 * [[Beta program|Beta-V3]]
 
 ***

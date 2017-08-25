@@ -18,8 +18,8 @@
 
 ### Options
 * [[Logout|Logout]]
-* [[Languages|Language]]
-* [[Themes|Themes]]
+* [[Language|Language]]
+* [[Theme|Themes]]
 * [[Change Log|Change-Log]]
 * [[Factory Reset|Reset]]
 

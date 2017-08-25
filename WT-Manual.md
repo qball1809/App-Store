@@ -4,4 +4,6 @@ Clicking on WT Manual, will bring you to this Wiki. We hope you find it informat
 
 If you have any questions regarding WebTools or these Wiki help pages, then please leave a message on the [WebTools](http://forums.plex.tv/discussion/126254/rel-webtools/p1) forum pages at Plex forums.
 
-[[Back to the Home page|Home]]
+***
+
+[[Home|Home]] | [[Back|WT-Github]] | [[Next|Credits]]

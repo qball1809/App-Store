@@ -24,4 +24,4 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 * Questions
   * If you have a question during beta testing, it should be asked in our Slack
 
-
+To sign up for the beta, please send a msg to XXX on the Plex forums

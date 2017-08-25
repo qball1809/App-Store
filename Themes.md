@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Theme
 
-Clicking on the Theme menu button will present you with a number of buttons. Each button represents a set of colours to be used by WebTools.
+Clicking on the Theme menu button will present you with a number of buttons. Each button represents a set, or theme, of colours to be used by WebTools.
 
 By default there are a number of pre-defined Themes for you to choose from.
 

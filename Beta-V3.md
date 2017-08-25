@@ -17,8 +17,8 @@ If you want to participate in the beta program for WebTools V3, then it does inv
   * No support will be given for installation issues! If you can't install it manually, then sorry, you are not beta tester material.
   * You must sign up for our Slack. (Link given, when signing up)
   * You must [create a GitHub account](https://github.com/join?source=header-repo), if not already having one
-  * You must sign up for our translation site. (Link is in the Slack)
-  * You must download the current WebTools beta. (Link is in the Slack)
+  * You must sign up for our translation site. (Link is available in Slack)
+  * You must download the current WebTools beta. (Link is available in Slack)
 * Language
   * You must test WebTools in your native languages
   * If a translation is not correct, you must correct it at the translation site

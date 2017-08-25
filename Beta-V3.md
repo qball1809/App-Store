@@ -29,7 +29,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 
 ### Signup
 
-To sign up for the beta, please send a msg to XXX on the Plex forums, and tell me your email address, so I can send you a Slack Invite
+To sign up for the beta, please send a msg to XXX on the Plex forums, and tell me your email address, as well as mention this beta, so I can send you a Slack Invite
 
 ### Credits
 

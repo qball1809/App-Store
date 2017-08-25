@@ -10,4 +10,4 @@ See the [[UAS (Unsupported App Store)|UAS]]
 
 ***
 
-[[Home|Home]] | [[Change Log|Change-Log]] | [[WT Forum Thread|WT-Forum]]
+[[Home|Home]] | [[Back|Change-Log]] | [[Next|WT-Forum]]

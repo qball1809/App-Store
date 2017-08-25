@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Contact
 
-The WebTools Development team urge you to use the [[Plex/WebTools forum thread|WT-Forum]] if you have a Question regarding WebTools.
+The WebTools Development team urge you to use the [[Plex/WebTools forum thread|WT-Forum]] if you have a support question regarding WebTools.
 
 If you wish to contact us in regards to any other matter, then click below to send us a private message:
 

@@ -23,8 +23,9 @@ If you want to participate in the beta program for WebTools V3, then it do invol
 * Bug Reporting
   * If you are facing a bug, and it's not listed [here](https://github.com/ukdtom/WebTools.bundle/issues?q=is%3Aopen+is%3Aissue+milestone%3AV3.0.0), then you must [create](https://github.com/ukdtom/WebTools.bundle/issues/new) a GitHub Issue
 * Questions
-  * If you have a question during beta testing, it should be asked in our Slack
   * Start by checking the [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) first please
+  * If you still have a question during beta testing, it should be asked in our Slack
+
 
 ### Signup
 

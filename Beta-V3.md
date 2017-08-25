@@ -12,5 +12,9 @@ If you want to participate in the beta program for WebTools V3, then it do invol
   * You must test WebTools in your native languages
   * If a translation is not correct, you must correct it at the translation site
   * If your language is missing, you must translate it
+* Testing
+  * You should test as many functions of WebTools as possible
+* Bug Reporting
+  * If you are facing a bug, and it's not listed [here](https://github.com/ukdtom/WebTools.bundle/issues?q=is%3Aopen+is%3Aissue+milestone%3AV3.0.0), then you must [create](https://github.com/ukdtom/WebTools.bundle/issues/new) a GitHub Issue
 
 

@@ -10,6 +10,7 @@ If you want to participate in the beta program for WebTools V3, then it do invol
   * You must be able to manually grab the WebTools log files from your PMS
   * No support will be given to installation issues! If you can't install it manually, then sorry, but then you are not beta material
   * You must sign up for our Slack. (Link given, when signing up)
+  * You must [create a GitHub account](https://github.com/join?source=header-repo), if not already having one
   * You must sign up for our translation site. (Link is in the Slack)
   * You must download the current WebTools beta. (Link is in the Slack)
 * Language

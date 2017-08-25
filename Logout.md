@@ -10,4 +10,4 @@ Just remember, in order to keep your server and WebTools secure, always click on
 
 ***
 
-[[Home|V3Home]] | [[Back|Playlists]] | [[Next|Language]]
+[[Home|Home]] | [[Back|Playlists]] | [[Next|Language]]

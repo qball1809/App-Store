@@ -41,5 +41,6 @@ In the Valid Extensions text box you may add or remove extensions that FindMedia
 
 **Save settings** will of course save your current settings.
 
+***
 
-[[Back to the Home page|Home]]
+[[Home|Home]] | [[Back|UAS]] | [[Next|Playlists]]

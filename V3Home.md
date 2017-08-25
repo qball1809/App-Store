@@ -17,4 +17,6 @@ For information about how to install and use the WebTools plug-in, **use the men
 
 A huge thanks goes to [POEditor](https://poeditor.com), they kindly provided us with a translation site for free, since WebTools is an Open-Source project
 
+***
+
 [[Next|About]]

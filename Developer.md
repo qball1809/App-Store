@@ -2,12 +2,16 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/ukdtom/WebTools.bundle.svg?style=flat)](https://github.com/ukdtom/WebTools.bundle/issues)
 
-If you are a developer, and wants to add to WebTools, then **HUGE** thanks...
+If you are a developer, and you want to add your project or ideas to WebTools, then a **HUGE** thanks...
 
 Please remember to check our [Issue List](https://github.com/ukdtom/WebTools.bundle/issues) first of all, so you can reference it when/if fixing an already outstanding issue
 
 And regardless, we **ALWAYS** welcome a PR
 
-Happy Plex'ing
+Happy Plexing! :)
 
-The WebTools Dev Team
+The WebTools Development Team
+
+***
+
+[[Home|V3Home]] | [[Back|Credits]] | [[Next|Contact]]

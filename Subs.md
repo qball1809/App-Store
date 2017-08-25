@@ -48,4 +48,4 @@ Clicking on the <-- Name of TV Show: Season # title bar will return you to the T
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image05.png)
 
 
-[[Back to the Home page|Home]]
+[[Home|Home]] | [[Back|Locate-WT]] | [[Next|Logs]]

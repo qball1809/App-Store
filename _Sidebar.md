@@ -14,7 +14,7 @@
 * [[Logs (PMS)|Logs]]
 * [[UAS (Unsupported App Store)|UAS]]
 * [[Find Media|FindMedia]]
-* [[Playlists|Playlists]]
+* [[Playlist|Playlists]]
 
 ### Options
 * [[Logout|Logout]]

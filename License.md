@@ -1,0 +1,1 @@
+To see the license, please click [here](https://github.com/ukdtom/WebTools.bundle/blob/master/LICENSE)

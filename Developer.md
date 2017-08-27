@@ -4,6 +4,8 @@
 
 If you are a developer, and you want to add your project or ideas to WebTools, then please contact the developers and a big thank you for your support and assistance!
 
+If you on the other hand is a developer, and discovered a bug, then please fire away with a PR against the current Developer branch
+
 Please remember to check our list of [Issues](https://github.com/ukdtom/WebTools.bundle/issues) first of all, so you can reference an issue when/if fixing an already outstanding issue.
 
 Happy Plexing! :)

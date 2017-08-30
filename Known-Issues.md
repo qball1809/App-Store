@@ -6,4 +6,4 @@ There is nothing here yet since this is new for WebTools V3, and that has not be
 
 ***
 
-[[Home|Home]] | [[Back|WT-Manual]] | [[Next|Credits]]
+[[Home|Home]] | [[Back|WT-Manual]] | [[Next|FAQ]]

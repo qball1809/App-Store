@@ -16,7 +16,7 @@ This Wiki only exists due to the hard work of [trumphy81](http://forums.plex.tv/
 
 For information about how to install and use the WebTools plug-in, **use the menu on the right hand side of the screen.**
 
-A huge thanks goes to our friends @ [POEditor](https://poeditor.com), they kindly provided us with a [translation site](https://poeditor.com/join/project/8uRxEmAE4M) for free, since WebTools is an Open-Source project
+A huge thanks goes to our friends @ [POEditor](https://poeditor.com), since they kindly provided us with a [translation site](https://poeditor.com/join/project/8uRxEmAE4M) for free, since WebTools is an Open-Source project
 
 ***
 

@@ -37,4 +37,4 @@ Thank you for your support!!
 
 ***
 
-[[Home|Home]] | [[Back|Known Issues]] | [[Next|Developer]]
+[[Home|Home]] | [[Back|FAQ]] | [[Next|Developer]]

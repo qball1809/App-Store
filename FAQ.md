@@ -6,4 +6,4 @@ Most likely, you also installed WebTools under the `Resource/Plug-ins-XXXX`direc
 
 ***
 
-[[Home|Home]] | [[Back|Known Issues]] | [[Next|FAQ]]
+[[Home|Home]] | [[Back|Known Issues]] | [[Next|Credits]]

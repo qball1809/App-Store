@@ -32,6 +32,7 @@
 * [[WT Github|WT-Github]]
 * [[WT Manual|WT-Manual]]
 * [[Known Issues|Known-Issues]]
+* [[FAQ|FAQ]]
 
 ### Credits
 * [[Credits|Credits]]

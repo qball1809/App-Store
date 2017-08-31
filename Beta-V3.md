@@ -18,6 +18,7 @@ If you want to participate in the beta program for WebTools V3, then it does inv
   * You must sign up for our Slack. (Link given, when signing up)
   * You must [create a GitHub account](https://github.com/join?source=header-repo), if not already having one
   * You must sign up for our translation site. (Link is available in Slack)
+    * Note that this is regardless of you do translations or not, since we use the info for our Credits page
   * You must download the current WebTools beta. (Link is available in Slack)
 * Language
   * You must test WebTools in your native languages

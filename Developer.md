@@ -2,6 +2,12 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/ukdtom/WebTools.bundle.svg?style=flat)](https://github.com/ukdtom/WebTools.bundle/issues)
 
+## Adding to UAS
+
+If you want to add your work to the UAS, then please go [here](https://github.com/ukdtom/UAS2Res/wiki)
+
+## Adding a module to WebTools
+
 If you are a developer, and you want to add your project or ideas to WebTools, then please contact the developers and a big thank you for your support and assistance!
 
 If you on the other hand is a developer, and discovered a bug, then please fire away with a PR against the current Developer branch

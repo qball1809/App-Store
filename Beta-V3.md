@@ -38,4 +38,4 @@ To sign up for the beta, please send a msg to **XXX** on the Plex forums, and te
 
 ### Credits
 
-If you sign up for the beta, you will be mentioned in the credits page of WebTools, with your Plex forum NickName, unless you opt. out of that.
+If you sign up for the beta, you will be mentioned in the credits page of WebTools, with the name you use for our translation site, unless you opt. out of that.

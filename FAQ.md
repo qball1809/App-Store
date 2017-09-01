@@ -5,6 +5,8 @@ from the [Plex Forums:](http://forums.plex.tv/discussion/126254)
   * Most likely, you also installed WebTools under the `Resource/Plug-ins-XXXX`directory as well. You must delete it from that, and the manually reinstall WebTools in the [`Library/Plug-Ins`](https://support.plex.tv/hc/en-us/articles/201106098) directory
 * When I browse to `http://IP_OF_PMS:33400` nothing happens
   * Make sure, that you opened your PMS firewall to port 33400 and 33443
+* WebTools is not working, and you asked me for the WebTools logs. Where are they located
+  * Make a zip file of the entire logs directory, including sub-directories, and **do not** use the PMS build in "Download logs" functionallity
 
 ***
 

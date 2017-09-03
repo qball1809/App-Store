@@ -3,6 +3,12 @@
 If you are running Windows, Asustor, QNAP or Synology, you will find easy to install packages here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
+### 3.Party Install instructions
+* Docker
+  * Do check out this [link](https://forums.lime-technology.com/topic/44982-plex-docker-help-webtools-amp-unsupported-app-store/)
+* Raspberry Pi
+  * Do check out this [comment](https://forums.plex.tv/discussion/comment/1368888/#Comment_1368888)
+
 ### Manual Installation
 If you want/need to install WebTools manually, follow these steps:
 

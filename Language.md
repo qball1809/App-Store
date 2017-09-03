@@ -8,7 +8,7 @@ Here you can change the language that WebTools uses to display the text with. Yo
 
 The percentage indicates how many text strings have been converted to that language.
 
-If the percentage for your language is not 100%, it means that we have not yet translated all the strings to your language, and as such could use your help [here](https://poeditor.com/join/project/8uRxEmAE4M).
+If the percentage for your language is not 100%, it means that we have not yet translated all the strings to your language, and as such we could use your help [here](https://poeditor.com/join/project/8uRxEmAE4M).
 
 Clicking on the 'Force Language Translation Update` button will update your language with what's current on the translation site
 

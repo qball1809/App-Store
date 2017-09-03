@@ -31,6 +31,8 @@ If you want to participate in the beta program for WebTools V3, then it does inv
 * Questions
   * Start by checking the [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) first please
   * If you still have a question during beta testing, it should be asked in our Slack
+* Wiki
+  * If you have ideas/changes to our [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) then please use our Slack
 
 
 ### Signup

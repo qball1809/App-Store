@@ -7,7 +7,7 @@ If you wish to contact us in regards to any other matter, then click below to se
 * [omc1000](https://forums.plex.tv/messages/add/omc1000), a Plex community member (Front end)
 * [dane22](https://forums.plex.tv/messages/add/dane22), a Plex community member (ukdtom on GitHub) (Back end)
 
-**Note:** if you send a PM in the forums regarding support it **will** be ignored! Please submit support messages to the [[Plex/WebTools forum thread|WT-Forum]], thanks!
+**Note:** if you send a PM in the forums regarding support it **will** be ignored! Please submit support messages to the [[Plex/WebTools forum thread|WT-Forum]], or create an issue [here](https://github.com/ukdtom/WebTools.bundle/issues/new), thanks!
 
 ***
 

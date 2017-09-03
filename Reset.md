@@ -10,7 +10,7 @@ You will need to migrate your previously installed plug-ins once again after usi
 See the [[UAS (Unsupported App Store)|UAS]]
 
 ### Manually
-You'll need to delete two directories, as well as one file, and then restart your Plex Media Server
+If WebTools is in a State, where it's completely off, you might have to reset it manually. To do that, you'll need to delete two directories, as well as one file, and then restart your Plex Media Server
 
 * WebTools Cache directory
   * Locate the [Cache Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches), and delete the directory named `com.plexapp.plugins.WebTools`

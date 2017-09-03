@@ -20,8 +20,8 @@ Thanks to everyone participating in the Beta!
 You made WebTools better! 
 
 ## Never Forget
-The idea of an Unsupported AppStore was conceived by mikedm139, the original author of the Unsupported AppStore.
-Pre V3 Web Frontend was made by dagalufh
+* The idea of an Unsupported AppStore was conceived by [mikedm139](http://forums.plex.tv/profile/discussions/mikedm139), the original author of the Unsupported AppStore.
+* Pre V3 Web Frontend was made by [dagalufh](http://forums.plex.tv/profile/discussions/dagalufh)
 
 ## And Many Thanks To
 The talented and hard working authors/developers and staff at Plex. We are eternally grateful for your dedication and hard work.

@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Installing WebTools
 
-If you are running Windows, Asustor, QNAP or Synology, you will find easy to install packages here:
+If you are running Windows, Asustor, QNAP or Synology, you will find an official "easy to install" packages here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
 ### 3.Party Install instructions

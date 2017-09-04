@@ -11,6 +11,8 @@
   * Make a zip file of the [entire logs](https://support.plex.tv/hc/en-us/articles/200250417-Plex-Media-Server-Log-Files) directory, including sub-directories, and **do not** use the PMS build in "Download logs" functionality
 * F4: When I click on the link in the Channels View, nothing happens
   * You should not click on it, but type the URL in a new browser tab
+* F5: I see untranslated strings for my language, but when clicking on the Language tab, it does say 100% for my language
+  * Most likely, the translation was done after the version of WebTools was released. Simply click on the button named "Force Language Translation Update"
 
 ***
 

@@ -21,9 +21,9 @@ If you want to participate in the beta program for WebTools V3, then it does inv
     * Note that this is regardless of you do translations or not, since we use the info for our Credits page
   * You must download the current WebTools beta. (Link is available in Slack)
 * Language
-  * You must test WebTools in your native languages
-  * If a translation is not correct, you must correct it at the translation site
-  * If your language is missing, you must translate it
+  * You should test WebTools in your native languages
+  * If a translation is not correct, you should correct it at the translation site
+  * If your language is missing, you should translate it
 * Testing
   * You should test as many functions of WebTools as possible
 * Bug Reporting

@@ -10,7 +10,7 @@
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
 
-[![Gem](https://img.shields.io/gem/dtv/rails.svg)](https://github.com/ukdtom/WebTools.bundle)
+[![Gem](https://img.shields.io/github/downloads/ukdtom/WebTools.bundle/latest/total.svg)](https://github.com/ukdtom/WebTools.bundle)
 
 
 

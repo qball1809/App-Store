@@ -9,13 +9,6 @@
 [![master](https://img.shields.io/badge/master-stable-green.svg?maxAge=2592000)]()
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
-
-[![Gem](https://img.shields.io/github/downloads/ukdtom/WebTools.bundle/latest/total.svg)](https://github.com/ukdtom/WebTools.bundle)
-
-
-
-https://img.shields.io/gem/dtv/rails.svg
-
 WebTools is a plug-in designed to help users of Plex Media Server, organise and maintain their media and server.
 This Wiki only exists due to the hard work of [trumphy81](http://forums.plex.tv/profile/discussions/trumpy81) !
 

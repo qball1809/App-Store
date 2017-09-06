@@ -10,7 +10,10 @@
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
 
-[![Download latest release](https://img.shields.io/github/downloads/ukdtom/WebTools.bundle/latest/rails.svg)](https://github.com/ukdtom/WebTools.bundle/releases/latest)
+[![Gem](https://img.shields.io/gem/dtv/rails.svg)](https://github.com/ukdtom/WebTools.bundle)
+
+
+
 https://img.shields.io/gem/dtv/rails.svg
 
 WebTools is a plug-in designed to help users of Plex Media Server, organise and maintain their media and server.

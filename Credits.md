@@ -3,7 +3,8 @@
 This plugin was made by a combined effort of the following people:
 
 ## Main Developers
-[omc1000](https://forums.plex.tv/profile/omc1000/), a Plex community member (Front end), [dane22](https://forums.plex.tv/profile/dane22), a Plex community member (ukdtom on GitHub) (Back end)
+[omc1000](https://forums.plex.tv/profile/omc1000/), a Plex community member (creoludifico on GitHub) (Front end) 
+[dane22](https://forums.plex.tv/profile/dane22), a Plex community member (ukdtom on GitHub) (Back end)
 
 ## Custom Themes
 [trumpy81](http://forums.plex.tv/profile/discussions/trumpy81)

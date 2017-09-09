@@ -13,6 +13,9 @@
 Support for WebTools V3 is **ONLY** for Beta testers, and in our Beta Slack, until V3 is released to the public!
 To join the Beta, look [here](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)
 
+***
+
+
 WebTools is a plug-in designed to help users of Plex Media Server, organise and maintain their media and server.
 This Wiki only exists due to the hard work of [trumphy81](http://forums.plex.tv/profile/discussions/trumpy81) !
 

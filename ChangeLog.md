@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/WebTools-48.png) This is the changelog for WebTools
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) This is the changelog for WebTools
 
 ## Versions:
 

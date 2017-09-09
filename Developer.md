@@ -10,7 +10,7 @@ If you want to add your work to the UAS, then please go [here](https://github.co
 
 If you are a developer, and you want to add your project or ideas to WebTools, then please make a PR against the current Developer branch. And a big thank you for your support and assistance!
 
-If you on the other hand is a developer, and discovered a bug, then please fire away with a PR against the current Developer branch
+If you on the other hand discovered a bug, then please fire away with a PR against the current Developer branch
 
 Please remember to check our list of [Issues](https://github.com/ukdtom/WebTools.bundle/issues) first of all, so you can reference an issue when/if fixing an already outstanding issue.
 

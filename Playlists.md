@@ -2,6 +2,8 @@
 
 The Playlists tool module will allow you to copy your playlists to other users and will also allow you to download or delete existing playlists.
 
+Clicking on the Quick Help `?` button will display a short list of the functions available in the Playlists tool module.
+
 ### Users
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Playlist/PL-image01.png)
@@ -25,6 +27,8 @@ The buttons operate as follows:
 1. Copy Button. The copy button is not active until you select a user from the 'Select target user' drop down menu. Clicking on the copy button will copy the selected playlist to the selected target user.
 2. Delete Button. This button will allow you to delete the selected playlist.
 3. Download Button. This button will allow you to download the selected playlist .m3u8 file to your computer.
+
+> Note: The Import Playlist function is not functional at the present time. We hope to have that functional in the near future.
 
 ***
 

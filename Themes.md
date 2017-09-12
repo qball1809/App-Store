@@ -8,18 +8,18 @@ However, if you wish to create your own custom theme you may start by copying an
 
 Once you have done that, you may open the file in a text editor and proceed to change the colour definitions for the various elements.
 
-Note: you should be careful not to alter the format of the file in any other way. You are only allowed to edit the hexadecimal color values #242424.
+Note: you should be careful not to alter the format of the file in any other way. You are only allowed to edit the rgba color values (255,255,255,1).
 
 Example:  
-`.panel-default>.panel-heading {background-color: #FE9B00; color: #242424;}`
+`.panel-default>.panel-heading {background-color: rgba(0,0,0,1); color: rgba(255,255,255,1);}`
 
-The colours are defined by the hexadecimal numbers immediately following the # symbol.
+The colours are defined by the 3 decimal numbers followed by the alpha number. The alpha value controls how much transparency the colour will have on the page. An alpha value of 1 = solid and a fractional value of 0.01 will be almost invisible.
 
-In the line above, the text background colour is set to #FE9B00 which is a gold colour.
+In the line above, the background colour is set to a Red Green Blue value of (0,0,0,1) which is black in colour and is solid (not transparent at all).
 
-The text colour is set to #242424 which is a very dark grey colour.
+The text colour is set to (255,255,255,1) which is white in colour and is also solid (not transparent at all). By adjusting the alpha value (1) you can change the original white colour to appear more grey as it lets the black background colour show through, the lower the alpha number is, the more black that will show through.
 
-By changing the number values, you are able to change the various elements to any colour you desire.
+By changing the number values, you are able to change the various elements to any colour you desire and set it's transparency or opacity to any level.
 
 Note: when editing your custom style sheet, you should refresh your browser page often, otherwise, you may not see the changes you have made to your custom style sheet/theme.
 

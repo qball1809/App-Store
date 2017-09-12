@@ -11,7 +11,11 @@ Once you have done that, you may open the file in a text editor and proceed to c
 Note: you should be careful not to alter the format of the file in any other way. You are only allowed to edit the rgba color values (255,255,255,1).
 
 Example:  
-`.panel-default>.panel-heading {background-color: rgba(0,0,0,1); color: rgba(255,255,255,1);}`
+`body{
+    background-color: rgba(0,0,0,1);
+    color: rgba(255,255,255,1);
+}
+`
 
 The colours are defined by the 3 decimal numbers followed by the alpha number. The alpha value controls how much transparency the colour will have on the page. An alpha value of 1 = solid and a fractional value of 0.01 will be almost invisible.
 

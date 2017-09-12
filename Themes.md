@@ -16,7 +16,7 @@ body {
     color: rgba(255, 255, 255, 1);
 }
 
-The colours are defined by the 3 decimal numbers which represent the Red, Green and Blue colours followed by the alpha or opacity value. The alpha value controls how much transparency the colour will have on the page. An alpha value of 1 = solid and a fractional value of 0.01 will be almost invisible.
+The colours are defined by the 3 decimal numbers which represent the Red, Green and Blue values followed by the alpha or opacity value. The alpha value controls how much transparency the colour will have on the page. An alpha value of 1 = solid and a fractional value of 0.01 will be almost invisible.
 
 In the line above, the background colour is set to a Red, Green, Blue value of (0,0,0,1) which is black in colour and is solid (not transparent at all).
 

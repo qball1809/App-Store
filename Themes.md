@@ -24,7 +24,7 @@ The text colour is set to (255,255,255,1) which is white in colour and is also s
 
 By changing the number values, you are able to change the various elements to any colour you desire and set it's transparency or opacity to any level.
 
-Note: when editing your custom style sheet, you should refresh your browser page often, otherwise, you may not see the changes you have made to your custom style sheet/theme.
+Note: when editing your custom style sheet, you should refresh your browser page often, otherwise, you may not see the changes you have made to your custom style sheet/theme. Also, if you use an RGB value and forget to add the alpha value, then browsers such as Chrome and Edge will not show your changes as the value will be invalid.
 
 Also note that the css value uses the American spelling for 'color' and not the English spelling which is 'colour'.
 

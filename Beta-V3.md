@@ -23,6 +23,20 @@ If you want to participate in the beta program for WebTools V3, then it does inv
   * You should test WebTools in your native languages
   * If a translation is not correct, you should correct it at the translation site
   * If your language is missing, you should translate it
+  * Languages that is translated, or in the progress of been translated are:
+    * Arabic
+    * Danish
+    * Dutch
+    * English
+    * French
+    * German
+    * Hindi
+    * Norwegian Bokmål
+    * Portuguese
+    * Portuguese (BR)
+    * Romanian
+    * Spanish
+    * Swedish
 * Testing
   * You should test as many functions of WebTools as possible
 * Bug Reporting

@@ -11,4 +11,4 @@ If you wish to contact us in regards to any other matter, then click below to se
 
 ***
 
-[[Home|Home]] | [[Back|Developer]]
+[[Home|Home]] | [[Back|Developer]] | [[Next|License]]

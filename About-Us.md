@@ -6,4 +6,4 @@ And please, don't forget to buy the developers a beer if you are able to, and th
 
 ***
 
-[[Home|Home]] | [[Back|Playlists]] | [[Next|Themes]]
+[[Home|Home]] | [[Back|Language]] | [[Next|Themes]]

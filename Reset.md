@@ -28,4 +28,4 @@ If WebTools is in a State, where it's completely off, you might have to reset it
 
 ***
 
-[[Home|Home]] | [[Back|Change-Log]] | [[Next|WT-Forum]]
+[[Home|Home]] | [[Back|Change-Log]] | [[Next|Logout]]

@@ -12,4 +12,4 @@ Just remember, in order to keep your server and WebTools secure, either logout, 
 
 ***
 
-[[Home|Home]] | [[Back|Playlists]] | [[Next|Language]]
+[[Home|Home]] | [[Back|Reset]] | [[Next|WT-Forum]]

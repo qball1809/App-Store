@@ -32,4 +32,4 @@ The buttons operate as follows:
 
 ***
 
-[[Home|Home]] | [[Back|FindMedia]] | [[Next|Logout]]
+[[Home|Home]] | [[Back|FindMedia]] | [[Next|Language]]

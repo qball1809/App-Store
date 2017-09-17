@@ -32,4 +32,4 @@ To give you some idea of the colours to use and to find their respective colour 
 
 ***
 
-[[Home|Home]] | [[Back|Language]] | [[Next|Change-Log]]
+[[Home|Home]] | [[Back|About Us]] | [[Next|Change-Log]]

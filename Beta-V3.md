@@ -43,9 +43,9 @@ If you want to participate in the beta program for WebTools V3, then it does inv
   * If you are facing a bug, and it's not listed [here](https://github.com/ukdtom/WebTools.bundle/issues?q=is%3Aopen+is%3Aissue+milestone%3AV3.0.0), then you must create a new [GitHub Issue](https://github.com/ukdtom/WebTools.bundle/issues/new)
 * Questions
   * Start by checking the [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) first please
-  * If you still have a question during beta testing, it should be asked in our Slack General channel
+  * If you still have a question during beta testing, it should be asked in our Slack beta-v3 channel
 * Wiki
-  * If you have any ideas/changes to our [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki/V3Home) then please use the Slack General channel
+  * If you have any ideas/changes to our [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki/V3Home) then please use the Slack beta-v3 channel
 
 
 ### Signup

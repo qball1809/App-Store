@@ -31,7 +31,7 @@
 ### Help
 * [[WT Forum Thread|WT-Forum]]
 * [[WT Github|WT-Github]]
-* [[WT Manual|WT-Manual]]
+* [[WT Online Help|WT-Manual]]
 * [[Known Issues|Known-Issues]]
 * [[FAQ|FAQ]]
 

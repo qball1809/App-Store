@@ -29,7 +29,7 @@
 * [[Logout|Logout]]
 
 ### Help
-* [[WT Forum Thread|WT-Forum]]
+* [[WT Forum|WT-Forum]]
 * [[WT Github|WT-Github]]
 * [[WT Online Help|WT-Manual]]
 * [[Known Issues|Known-Issues]]

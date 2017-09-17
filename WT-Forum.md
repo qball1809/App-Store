@@ -6,4 +6,4 @@ You should visit the WebTools forum pages and leave a message there if you are e
 
 ***
 
-[[Home|Home]] | [[Back|Reset]] | [[Next|WT-Github]]
+[[Home|Home]] | [[Back|Logout]] | [[Next|WT-Github]]

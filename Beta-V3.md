@@ -50,9 +50,9 @@ If you want to participate in the beta program for WebTools V3, then it does inv
 
 ### Signup
 
-To sign up for the beta, please send a msg to [dane22](http://forums.plex.tv/messages/add/dane22) on the Plex forums, as well as mention this beta, so that I can send you a Slack Invite.
-Also do note, that due to time-zones, it might take up to 24 hours, before I see your msg.
+To sign up for the beta, please send a message to [dane22](http://forums.plex.tv/messages/add/dane22) on the Plex forums, as well as mention this beta, so that I can send you a Slack Invite.
+Also do note, that due to time-zones, it might take up to 36 hours, before I see your message.
 
 ### Credits
 
-If you sign up for the beta, you will be mentioned in the About page of WebTools, with the name you use for our translation site, unless you opt. out of that.
+If you sign up for the beta, you will be mentioned in the About Us page of WebTools, with the name you use for our translation site, unless you opt. out of that.

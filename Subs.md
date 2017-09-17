@@ -47,7 +47,7 @@ Clicking on the <-- Name of TV Show: Season # title bar will return you to the T
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image05.png)
 
-### Filter By Letter
+## Filter By Letter
 
 You may now choose to filter your TV Shows by letter. You will notice that beside each letter in the drop down menu, there is a number indicating the number of shows you have that start with that letter.
 

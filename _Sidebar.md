@@ -21,11 +21,12 @@
 * [[Playlist|Playlists]]
 
 ### Options
-* [[Logout|Logout]]
 * [[Language|Language]]
+* [[About Us|About Us]]
 * [[Theme|Themes]]
 * [[Change Log|Change-Log]]
 * [[Factory Reset|Reset]]
+* [[Logout|Logout]]
 
 ### Help
 * [[WT Forum Thread|WT-Forum]]

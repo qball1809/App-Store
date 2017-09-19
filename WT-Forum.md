@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) WT Forum 
 
-The WT Forum button will take you to the [WebTools](http://forums.plex.tv/discussion/126254/rel-webtools/p1) forum pages on the Plex forums website.
+The WT Forum button will take you to the [WebTools](http://forums.plex.tv/discussion/288191) forum pages on the Plex forums website.
 
 You should visit the WebTools forum pages and leave a message there if you are experiencing difficulties with WebTools.
 

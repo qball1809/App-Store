@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Frequently Asked Questions
 
-**Note:** This page is constantly updated, and is based on the feedback from the [Plex Forums support thread:](http://forums.plex.tv/discussion/126254)
+**Note:** This page is constantly updated, and is based on the feedback from the [Plex Forums support thread:](https://forums.plex.tv/discussion/288191)
 
 ## FAQ (Frequently Asked Questions):
 * Q1: I manually installed Webtools, but when PMS is restarted, the WebTools.bundle directory is removed?

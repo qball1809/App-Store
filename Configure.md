@@ -12,6 +12,8 @@ In the WebTools Settings dialogue you are able to set the port number on which t
 
 http://Your-PMS-Server-IP-Address:33400 (or you would use the port number you have configured in the upper text box)
 
+**Note:** Remember to open your PMS servers firewall for the selected ports, if a firewall is present!
+
 If you access your Plex Media Server in a secure environment, you must first 'tick' the 'Select to force https' check box and then enter your desired port number in the text box above. You would then enter your Plex Media Server's IP Address followed by your configured port number in your Web Browser, like so:
 
 https://Your-PMS-Server-IP-Address:33443 (or you would use the port number you have configured in the lower text box)

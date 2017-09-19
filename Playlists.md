@@ -16,7 +16,7 @@ Selecting a user from the 'Select user' drop down menu will allow you to downloa
 
 Selecting a user from the 'Select target user' drop down menu will allow you to copy a playlist to that user.
 
-> Note: Be careful here also, as you may copy unwanted playlists to your friend/s Plex Media Server.
+> Note: Be careful here also, as you may copy unwanted playlists to your friend/s account.
 
 ### Buttons
  

@@ -12,7 +12,7 @@
 * Q4: When I click on the link in the Channels View, nothing happens
   * You should not click on it, but type the URL in a new browser tab
 * Q5: I see untranslated strings for my language, but when clicking on the Language tab, it does say 100% for my language
-  * Most likely, the translation was done after the version of WebTools was released. Simply click on the button named ["Force Language Translation Update"](https://github.com/ukdtom/WebTools.bundle/wiki/Language)
+  * Most likely, the translation was done after the version of WebTools was released. Simply click on the button named [["Force Language Translation Update"|Language]]
 
 ***
 

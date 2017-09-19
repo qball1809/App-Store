@@ -18,8 +18,6 @@ If you access your Plex Media Server in a secure environment, you must first 'ti
 
 https://Your-PMS-Server-IP-Address:33443 (or you would use the port number you have configured in the lower text box)
 
-> **Note:** If you do not have a secure environment, then please do not enable the 'Select to force https' check box as this may prevent you from accessing WebTools in your Web Browser.
-
 ***
 
 The Base URL text box is used to enter the url required if you are using a proxy server. If you do not use a proxy server, then leave this text box blank.

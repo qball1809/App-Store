@@ -4,7 +4,7 @@ The WT Github button will take you to the [WebTools Github Repository](https://g
 
 You may also click on the [Issues](https://github.com/ukdtom/WebTools.bundle/issues) tab and file a report of an issue you may have with WebTools.
 
-You may also click on the [Wiki](https://github.com/ukdtom/WebTools.bundle/wiki) tab which will bring you to these very helpful pages.
+You may also click on the [[Wiki|Home]] tab which will bring you to these very helpful pages.
 
 ***
 

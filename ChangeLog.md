@@ -9,7 +9,7 @@
 * [V2.2](ChangeLog#v22)   (2016-04-25)
 * [V2.1](ChangeLog#v21)   (2016-01-14)
 * [V2.0](ChangeLog#v20)   (2016-01-14)
-* [V1.1](ChangeLog#v11)   (2015-10-25)
+* [V1.1](ChangeLog#v11)   (2016-10-25)
 * [V1.0](ChangeLog#v10)   (2016-10-11)
 * [V0.0.0.18](ChangeLog#v00018)
 * [V0.0.0.17](ChangeLog#v00017)

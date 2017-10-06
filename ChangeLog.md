@@ -39,7 +39,9 @@
   * Brand new backend API V3
   * GUI completely redesigned, using Angular
   * Multilingual
-  * New module to manipulate Playlists 
+  * New module to manipulate Playlists
+  * Support for BaseURL (Proxy)
+  * Support for custom certificates 
 
 [Jump to top of page](ChangeLog#top)
 

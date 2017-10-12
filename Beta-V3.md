@@ -30,6 +30,7 @@ If you want to participate in the beta program for WebTools V3, then it does inv
     * English
     * French
     * German
+    * Hebrew
     * Hindi
     * Norwegian Bokmål
     * Portuguese

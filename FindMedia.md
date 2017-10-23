@@ -12,6 +12,7 @@ After clicking on a library name, FindMedia will scan the Plex database and your
 With any luck, FindMedia will not find anything missing, but if it does, it will display the results in a similar manner to what is shown above, and you also have an option to download the result as a text file.
 
 You may then go to your media folders and if the file is present, the most likely cause of the file not being found is file or ownership permissions. Correct the permissions, scan your library in Plex and hopefully all will be well.
+Or it could be caused by not naming your medias according to the [guide](https://support.plex.tv/hc/en-us/categories/200028098-Media-Preparation)
 
 If that does not correct the problem, then visit the [Plex Forums](https://forums.plex.tv/).
 

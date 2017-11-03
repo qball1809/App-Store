@@ -19,6 +19,7 @@
 * [[UAS (Unsupported App Store)|UAS]]
 * [[Find Media|FindMedia]]
 * [[Playlist|Playlists]]
+* [[TechInfo|TechInfo]]
 
 ### Options
 * [[Language|Language]]

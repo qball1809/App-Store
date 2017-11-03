@@ -19,6 +19,9 @@ Makes it possible to locate your media, that is either missing from the database
 ## PlayLists
 Allows you to copy playlists between users, as well as import, export and delete them.
 
+## TechInfo
+Will show you some Technical info about your Plex Media Server.
+
 ## Help
 If you need help with any of the above Tool modules, click on the ? icon at the top of the page.
 

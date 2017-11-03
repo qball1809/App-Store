@@ -16,4 +16,4 @@ All text strings start out as English, but by clicking on the [POEditor](https:/
 
 ***
 
-[[Home|Home]] | [[Back|Playlists]] | [[Next|About Us]]
+[[Home|Home]] | [[Back|TechInfo]] | [[Next|About Us]]

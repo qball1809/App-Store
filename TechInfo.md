@@ -5,4 +5,4 @@ The TechInfo tool module will show some technical information about your Plex Me
 **NOTE**
 Be careful to not share screenshots of the page, since it does contain your Plex Token!
 
-[[Home|Home]] | [[Back|FindMedia]] | [[Next|Language]]
+[[Home|Home]] | [[Back|Playlists]] | [[Next|Language]]

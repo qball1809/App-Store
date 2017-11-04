@@ -40,6 +40,7 @@
   * GUI completely redesigned, using Angular
   * Multilingual
   * New module to manipulate Playlists
+  * New module to show Technical Information
   * Support for BaseURL (Proxy)
   * Support for custom certificates 
 

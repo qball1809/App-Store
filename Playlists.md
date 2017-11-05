@@ -28,7 +28,9 @@ The buttons operate as follows:
 2. Delete Button. This button will allow you to delete the selected playlist.
 3. Download Button. This button will allow you to download the selected playlist .m3u8 file to your computer.
 
-> Note: The Import Playlist function is not functional at the present time. We hope to have that functional in the near future.
+### Import a playlist
+
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Playlist/PL-image03.png)
 
 ***
 

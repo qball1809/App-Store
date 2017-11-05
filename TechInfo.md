@@ -4,7 +4,7 @@ The TechInfo tool module will show some technical information about your Plex Me
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/TechInfo/TI-Image01.png)
 
-> Note: Do NOT share screenshots of this page, the image will contain your Plex Token! and that may be used to infiltrate your Plex Media Server.
+> Note: Do NOT share screenshots of this page, the image will contain your Plex Token and that may be used to infiltrate your Plex Media Server!
 
 ***
 

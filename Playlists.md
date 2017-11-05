@@ -32,9 +32,9 @@ The buttons operate as follows:
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Playlist/PL-image03.png)
 
-1. Click on the Browse... button. This will open a system dialogue where you are able to locate the playlist you wish to import
-2. After selecting your file, it's name will appear beside the Browse... button.
-3. Click on the Import button to import the file.
+1. Browse... button. This will open a system dialogue where you are able to locate the playlist you wish to import
+2. Name of File. After selecting your file, it's name will appear beside the Browse... button.
+3. Import button. Click on the Import button to import the file to your Plex Media Server.
 
 > Note: You may only import playlist files that have been downloaded/saved using WebTools. You may NOT import playlist files from other third party sources.
 

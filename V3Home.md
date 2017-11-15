@@ -17,7 +17,7 @@ To join the Beta, look [here](https://github.com/ukdtom/WebTools.bundle/wiki/Bet
 
 
 WebTools is a plug-in designed to help users of Plex Media Server, organise and maintain their media and server.
-This Wiki only exists due to the hard work of [trumphy81](http://forums.plex.tv/profile/discussions/trumpy81) !
+This Wiki only exists due to the hard work of [trumpy81](http://forums.plex.tv/profile/discussions/trumpy81) !
 
 **Note:** Before using WebTools, you must have a fully installed and working Plex Media Server installation. To download and to configure Plex Media Server, see the support pages at [Plex](https://support.plex.tv/hc/en-us).
 

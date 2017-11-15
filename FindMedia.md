@@ -7,14 +7,16 @@ Upon entering the FindMedia tool module you will be presented with a similar vie
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/FindMedia/FM-image03.png)
 
-After clicking on a library name, FindMedia will scan the Plex database and your associated media folder for any missing media in this library.
+After clicking on a library name, FindMedia will scan the Plex database and your associated media folder for any missing media in this library and for any files that have not been matched by Plex.
 
 With any luck, FindMedia will not find anything missing, but if it does, it will display the results in a similar manner to what is shown above, and you also have an option to download the result as a text file.
 
 You may then go to your media folders and if the file is present, the most likely cause of the file not being found is file or ownership permissions. Correct the permissions, scan your library in Plex and hopefully all will be well.
-Or it could be caused by not naming your medias according to the [guide](https://support.plex.tv/hc/en-us/categories/200028098-Media-Preparation)
+Or it could be caused by not naming your media according to the [guide](https://support.plex.tv/hc/en-us/categories/200028098-Media-Preparation)
 
-If that does not correct the problem, then visit the [Plex Forums](https://forums.plex.tv/).
+Similarly, files that have not been matched within Plex are also caused by incorrect file naming and/or file permissions. However, your network conditions and those at the various databases and too many requests (from everyone) may sometimes see limits imposed by the databases and that may also play a part in non-matched files in your Plex library. 
+
+If the above does not correct the problem, then visit the [Plex Forums](https://forums.plex.tv/).
 
 ## The Settings 
 

@@ -17,7 +17,7 @@ Or it could be caused by not naming your media according to the [guide](https://
 
 Similarly, files that have not been matched within Plex are also caused by incorrect file naming and/or file permissions. However, your network conditions and those at the various databases and too many requests (from everyone) may sometimes see limits imposed by the databases and that may also play a part in non-matched files in your Plex library. 
 
-If the above does not correct the problem, then visit the [Plex Forums](https://forums.plex.tv/).
+If any of the above does not help to correct the problem, then visit the [Plex Forums](https://forums.plex.tv/).
 
 ## The Settings 
 

@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Find Media
 
-Upon entering the FindMedia tool module you will be presented with a similar view to that shown below. All of your Plex libraries will be displayed and you can choose any library to scan for missing media.
+Upon entering the FindMedia tool module you will be presented with a similar view to that shown below. All of your Plex libraries will be displayed and you can choose any library to scan for missing media or unmatched media.
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/FindMedia/FM-image01.png)
 
 ## The Results

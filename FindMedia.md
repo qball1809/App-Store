@@ -1,13 +1,14 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Find Media
 
 Upon entering the FindMedia tool module you will be presented with a similar view to that shown below. All of your Plex libraries will be displayed and you can choose any library to scan for missing media or unmatched media.
+
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/FindMedia/FM-image01.png)
 
 ## The Results
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/FindMedia/FM-image03.png)
 
-After clicking on a library name, FindMedia will scan the Plex database and your associated media folder for any missing media in this library and for any files that have not been matched by Plex.
+After clicking on a library name, FindMedia will scan the Plex database and your associated media folder for any missing media in this library and for any files in your library that have not been matched by Plex.
 
 With any luck, FindMedia will not find anything missing, but if it does, it will display the results in a similar manner to what is shown above, and you also have an option to download the result as a text file.
 

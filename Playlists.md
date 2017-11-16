@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Playlists
 
-The Playlists tool module will allow you to copy your playlists to other users and will also allow you to download or delete existing playlists.
+The Playlists tool module will allow you to copy your playlists to other users and will also allow you to download or delete existing playlists, as well as import a downloaded playlist from WebTools.
 
 Clicking on the Quick Help `?` button will display a short list of the functions available in the Playlists tool module.
 

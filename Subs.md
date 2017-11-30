@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Sub Management
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Subtitles
 
 When you click on the Sub Management button on the Tool menu you will be presented with a list of your libraries that you have set up in your Plex Media Server as shown in the image below.
 

@@ -6,13 +6,13 @@ When you click on the Sub Management button on the Tool menu you will be present
 
 ## Selecting a Library
 
-Choose a library and then click on that library and you will be presented with a list of files in that library. Each file listed will show whether or not it has any subtitles associated with it and their location.
+Choose a library and then click on that library and you will be presented with a list of files in that library. Each file listed will show whether or not it has any subtitles associated with it and their location. You may also select the'Hide media without subtitles' option to remove any files from the list that do not have any subtitles associated with them. 
 
 Embedded subtitles are found within the video itself and WebTools is unable to edit or delete these subtitles.
 
 Sidecar subtitles are found alongside your video files, usually within the same folder. These files, along with subtitle files downloaded by one of the Plex agents may be deleted if required.
 
-Burned In subtitles cannot be shown. If you wish to delete burned in subtitles you will need to replace the video file as burned in subtitles cannot be deleted.
+Burned In subtitles cannot be shown. If you wish to delete burned in subtitles you will need to replace the video file as burned in subtitles cannot be deleted or removed.
 
 In the image below you will note three icons that appear when a subtitle is present, they are indicated by the numbers 1, 2, 3 in RED text.
 

@@ -1,5 +1,13 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Beta Info
 
+## BETA V3.0
+The Beta for V3.0 has ended!
+Stay tuned for a release soon
+
+
+***
+
+
 ## Beta program
 
 Yes, we do have a Beta program, and that's your chance to not only try out the bleeding edge of WebTools, but also help us help the Plex community as a whole.

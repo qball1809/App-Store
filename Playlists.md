@@ -38,6 +38,8 @@ The buttons operate as follows:
 
 > Note: You may only import playlist files that have been downloaded/saved using WebTools. You may NOT import playlist files from other third party sources.
 
+> Note: When copying a playlist to another user, any track that is not found on the users system will be deleted from the playlist you copied, so try to make sure your user has the same files as you do otherwise the playlist could end up being empty.
+
 ***
 
 [[Home|Home]] | [[Back|FindMedia]] | [[Next|TechInfo]]

@@ -3,5 +3,7 @@
 ## WebTools V2
 To see WebTools V2 Wiki, go [Here](V2Home)
 
-## WebTools V3 Beta
-Please see the [Beta FAQ](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)
+## WebTools V3.0 Beta
+~~Please see the [Beta FAQ](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)~~
+
+Beta for version V3.0 has ended

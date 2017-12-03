@@ -38,7 +38,7 @@
 * **New**:
   * Brand new backend API V3
   * GUI completely redesigned, using Angular
-  * Multilingual
+  * [Multilingual](https://github.com/ukdtom/WebTools.bundle/wiki/Language)
   * New module to manipulate Playlists
   * New module to show Technical Information
   * Support for BaseURL (Proxy)

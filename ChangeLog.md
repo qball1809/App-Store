@@ -37,13 +37,13 @@
 
 * **New**:
   * Brand new backend API V3
-  * GUI completely redesigned, using Angular
+  * GUI completely redesigned, using [Angular](https://angular.io/)
   * [Multilingual](https://github.com/ukdtom/WebTools.bundle/wiki/Language)
-  * New module to manipulate Playlists
-  * New module to show Technical Information
-  * Support for BaseURL (Proxy)
-  * Support for custom certificates
-  * FindMedia can now detect, if a media is missing MetaData
+  * New module to manipulate [Playlists](https://github.com/ukdtom/WebTools.bundle/wiki/Playlists)
+  * New module to show [Technical Information](https://github.com/ukdtom/WebTools.bundle/wiki/TechInfo)
+  * Support for [BaseURL](https://github.com/ukdtom/WebTools.bundle/wiki/Configure) (Proxy)
+  * Support for [custom certificates](https://github.com/ukdtom/WebTools.bundle/wiki/Configure)
+  * [FindMedia](https://github.com/ukdtom/WebTools.bundle/wiki/FindMedia) can now detect, if a media is missing MetaData
   * Lots of [fixes](https://github.com/ukdtom/WebTools.bundle/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AV3.0.0%20) 
 
 [Jump to top of page](ChangeLog#top)

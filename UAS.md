@@ -57,6 +57,8 @@ Below the Search text box you will see a list of categories that you are able to
 
 Clicking on a Category will also display all available plug-ins within that Category. You will also notice that the  the number of plug-ins you have installed in that category are displayed beside each category followed by the total number of plug-ins in that category.
 
+You may also click on the Installed category. This category will display only those plug-ins that are currently installed in Plex.
+
 ***
 
 [[Home|Home]] | [[Back|Logs]] | [[Next|Playlists]]

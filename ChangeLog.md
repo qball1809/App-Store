@@ -2,7 +2,7 @@
 
 ## Versions:
 
-* [V3.0.0](ChangeLog#v300)   (Not yet released)
+* [V3.0.0](ChangeLog#v300)   (2017-12-10)
 * [V2.4.1](ChangeLog#v241)   (2017-02-19)
 * [V2.4](ChangeLog#v24)   (2017-02-14)
 * [V2.3](ChangeLog#v23)   (2016-10-23)

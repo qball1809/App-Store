@@ -1,9 +1,30 @@
-# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Welcome to the WebTools.bundle wiki!
+# ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Welcome to the WebTools Help wiki!
 
-## WebTools V2
-To see WebTools V2 Wiki, go [Here](V2Home)
+![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-820x512.png)
 
-## WebTools V3.0 Beta
-~~Please see the [Beta FAQ](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)~~
+[![GitHub issues](https://img.shields.io/github/issues/ukdtom/WebTools.bundle.svg?style=flat)](https://github.com/ukdtom/WebTools.bundle/issues)
+[![Release](https://img.shields.io/github/release/ukdtom/WebTools.bundle.svg?style=flat)](https://github.com/ukdtom/WebTools.bundle/releases/latest)
+[![Download latest release](https://img.shields.io/github/downloads/ukdtom/WebTools.bundle/latest/total.svg)](https://github.com/ukdtom/WebTools.bundle/releases/latest)
+[![Download total](https://img.shields.io/github/downloads/ukdtom/WebTools.bundle/total.svg)](https://github.com/ukdtom/WebTools.bundle/releases)
+[![master](https://img.shields.io/badge/master-stable-green.svg?maxAge=2592000)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
-Beta for version V3.0 has ended
+## **NOTE:**
+Support for WebTools V3 is **ONLY** for Beta testers, and in our Beta Slack, until V3 is released to the public!
+To join the Beta, look [here](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)
+
+***
+
+
+WebTools is a plug-in designed to help users of Plex Media Server, organise and maintain their media and server.
+This Wiki only exists due to the hard work of [trumpy81](http://forums.plex.tv/profile/discussions/trumpy81) !
+
+**Note:** Before using WebTools, you must have a fully installed and working Plex Media Server installation. To download and to configure Plex Media Server, see the support pages at [Plex](https://support.plex.tv/hc/en-us).
+
+For information about how to install and use the WebTools plug-in, **use the menu on the right hand side of the screen.**
+
+A huge thanks goes to our friends @ [POEditor](https://poeditor.com), since they kindly provided us with a [translation site](https://poeditor.com/join/project/8uRxEmAE4M) for free, since WebTools is an Open-Source project
+
+***
+
+[[Next|About]]

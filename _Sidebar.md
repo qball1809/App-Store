@@ -1,12 +1,4 @@
-## WebTools V2 (GO HERE)
-* [[Home|V2Home]]
-
-***
-## Beta V3
-* [[Beta program|Beta-V3]]
-
-***
-## WebTools V3 (Not yet released, so do not click below!)
+## WebTools V3
 * [[Home|V3Home]]
 * [[About WebTools|About]]
 * [[Installing WebTools|Install]]
@@ -47,3 +39,6 @@
 
 ### License
 * [[License|License]]
+
+## Beta
+* [[Beta program|Beta-V3]]

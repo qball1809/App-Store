@@ -6,8 +6,8 @@ On this page, you can find a list of known issues with the latest version of Web
 * Note that some 3rd Party plugins use their own log routines, like Sub-Zero, and because of that, the highlighting of lines, where an error occurred, might fail when viewing those logs.
 
 ## Subs
-* If running Mac OSX, then deletion of subtitles has sadly been disabled in WebTools V3.0.0, due to code not yet finalized for that platform. #420
-* Filter is sadly not working for Shows in V3.0.0
+* If running Mac OSX, then deletion of subtitles has sadly been disabled in WebTools V3.0.0, due to code not yet finalized for that platform. [#420](https://github.com/ukdtom/WebTools.bundle/issues/420)
+* Filter is sadly not working for Shows in V3.0.0 [#455](https://github.com/ukdtom/WebTools.bundle/issues/455)
 
  
 ***

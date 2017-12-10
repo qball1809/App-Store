@@ -1,5 +1,5 @@
 ## WebTools V3
-* [[Home|V3Home]]
+* [[Home|Home]]
 * [[About WebTools|About]]
 * [[Installing WebTools|Install]]
 * [[Configure WebTools|Configure]]

@@ -1,9 +1,10 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Beta Info
 
-## BETA V3.0
+## BETA
 The Beta for V3.0 has ended!
 Stay tuned for a release soon
 
+Currently, no Beta is running
 
 ***
 

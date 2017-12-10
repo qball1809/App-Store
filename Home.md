@@ -9,10 +9,6 @@
 [![master](https://img.shields.io/badge/master-stable-green.svg?maxAge=2592000)]()
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 
-## **NOTE:**
-Support for WebTools V3 is **ONLY** for Beta testers, and in our Beta Slack, until V3 is released to the public!
-To join the Beta, look [here](https://github.com/ukdtom/WebTools.bundle/wiki/Beta-V3)
-
 ***
 
 

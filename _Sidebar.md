@@ -41,4 +41,4 @@
 * [[License|License]]
 
 ## Beta
-* [[Beta program|Beta-V3]]
+* [[Beta program|Beta]]

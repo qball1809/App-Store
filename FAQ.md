@@ -18,6 +18,9 @@
 <a name="Q5"></a>
 * Q5: I see untranslated strings for my language, but when clicking on the Language tab, it does say 100% for my language
   * Most likely, the translation was done after the version of WebTools was released. Simply click on the button named [["Force Language Translation Update"|Language]]
+<a name="Q6"></a>
+* Q6: I deleted an agent based subtitles, but within minutes, it shows again
+  * Most likely, your agent is still enabled, and when we delete the sub, PMS will trigger a refresh, causing the agent to redownload it
 
 ***
 

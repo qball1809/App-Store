@@ -25,7 +25,7 @@ If WebTools is in a State, where it's completely off, you might have to reset it
   * Go into the directory named `Preferences`
   * Delete the File named `com.plexapp.plugins.WebTools.xml`
 
-https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Reset/FR-image01.png
+![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Reset/FR-image01.png)
 
 ***
 

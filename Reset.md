@@ -17,13 +17,15 @@ If WebTools is in a State, where it's completely off, you might have to reset it
 * Support Directory, by doing the following:
   * Locate the Plug-in Support > [Caches Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
   * Go one directory up
-  * Go into the directory named `Data`
+  * Go into the directory Plug-in Support > `Data`
   * Delete the Directory named `com.plexapp.plugins.WebTools`
 * Channel Prefs
   * Locate the Plug-in Support > [Caches Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
   * Go one directory up
-  * Go into the directory named `Preferences`
+  * Go into the directory Plug-in Support > `Preferences`
   * Delete the File named `com.plexapp.plugins.WebTools.xml`
+
+Reference image below shows the locations of the relevant folders/files above:
 
 ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Reset/FR-image01.png)
 

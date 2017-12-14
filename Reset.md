@@ -13,14 +13,14 @@ See the [[UAS (Unsupported App Store)|UAS]]
 If WebTools is in a State, where it's completely off, you might have to reset it manually. To do that, you'll need to delete two directories, as well as one file, and then restart your Plex Media Server
 
 * WebTools Cache directory
-  * Locate the [Cache Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches), and delete the directory named `com.plexapp.plugins.WebTools`
+  * Locate the Plug-in Support > [Caches Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches), and delete the directory named `com.plexapp.plugins.WebTools`
 * Support Directory, by doing the following:
-  * Locate the [Cache Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
+  * Locate the Plug-in Support > [Caches Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
   * Go one directory up
   * Go into the directory named `Data`
   * Delete the Directory named `com.plexapp.plugins.WebTools`
 * Channel Prefs
-  * Locate the [Cache Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
+  * Locate the Plug-in Support > [Caches Directory](https://support.plex.tv/hc/en-us/articles/202967376-Clearing-Plugin-Channel-Agent-HTTP-Caches)
   * Go one directory up
   * Go into the directory named `Preferences`
   * Delete the File named `com.plexapp.plugins.WebTools.xml`

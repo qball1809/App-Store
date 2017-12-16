@@ -75,7 +75,7 @@ When updates for your plugins are available you will see a notice appear at the 
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image12.png)
 
-You should then click on the 'Updates Available' notice to display all of your currently installed plugins that have an update available and then you may update each one of your plugins by clicking on the Update button for each plugin or you may click on the Update All button to update all of the plugins in one go.
+You should then click on the 'Updates Available' notice to display all of your currently installed plugins that have an update available and then you may update each one of your plugins by clicking on the Update button for each plugin or you may click on the Update All button (as shown above) to update all of the plugins in one go.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image11.png)
 

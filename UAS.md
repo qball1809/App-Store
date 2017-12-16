@@ -7,7 +7,7 @@ Please note that the plugins available here-in are not supported by the Plex Med
 
 They may be unstable, unfinished, or provide access to content which may be offensive.
 
-If you are having trouble with any of the plugins available through this app, please go to the respective plugin's support thread.
+If you are having trouble with any of the plug-ins available through this app, please go to the respective plugin's support thread.
 
 The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plugins and any complaints or requests for support in relation to specific plugins will be ignored.
 
@@ -72,15 +72,15 @@ You may also click on the Installed category. This category will display only th
 
 **Note:** We only check for updates, when you manually press the "Check for updates" button
 
-When updates for your plugins are available you will see a notice appear at the top of the category selector (as shown above).
+When updates for your plug-ins are available you will see a notice appear at the top of the category selector (as shown above).
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image12.png)
 
-You should then click on the 'Updates Available' notice to display all of your currently installed plugins that have an update available and then you may update each one of your plugins by clicking on the Update button for each plugin or you may click on the Update All button (as shown above) to update all of the plugins in one go.
+You should then click on the 'Updates Available' notice to display all of your currently installed plug-ins that have an update available and then you may update each one of your plug-ins by clicking on the Update button for each plug-in or you may click on the Update All button (as shown above) to update all of the plug-ins in one go.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image11.png)
 
-After clicking on the update button, a message wiill appear informing you of a successful update for your plugin.
+After clicking on the update button, a message wiill appear informing you of a successful update for your plug-in.
 
 **Note:** The 'App successfully updated' message will continue to appear until you leave the UAS module. Upon entering the UAS module again, the message should be gone.
 

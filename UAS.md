@@ -12,7 +12,8 @@ If you are having trouble with any of the plugins available through this app, pl
 The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plugins and any complaints or requests for support in relation to specific plugins will be ignored.
 
 ## UAS
-Entering the UAS (Unsupported App Store) you will be presented with a similar view as shown below:
+Entering the UAS (Unsupported App Store) you will be presented with a similar view to that shown below:
+
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image01.png)
 
 ## Manual Installation

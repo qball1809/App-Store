@@ -71,7 +71,7 @@ You may also click on the Installed category. This category will display only th
 
 When updates for your plugins become available you will see a notice appear at the top of the category selector (as shown above).
 
-You should then click on the 'Installed' category to display all of your currently installed plugins and then you may update each one of your plugins by clicking on the update button for each plugin.
+You should then click on the 'Updates Available' notice to display all of your currently installed plugins that have an update available and then you may update each one of your plugins by clicking on the update button for each plugin.
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image11.png)
 

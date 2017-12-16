@@ -67,7 +67,7 @@ You may also click on the Installed category. This category will display only th
 
 ## Updating Plug-ins
 
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image10.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image10a.png)
 
 **Note:** We only check for updates, when you manually press the "Check for updates" button
 

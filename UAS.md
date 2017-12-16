@@ -59,6 +59,10 @@ Clicking on a Category will also display all available plug-ins within that Cate
 
 You may also click on the Installed category. This category will display only those plug-ins that you have currently installed in Plex.
 
+## Updating Plug-ins
+
+When updates for your plugins become available you will see a notice appear at the top of the category selector. You should then click on the 'Installed' category to display all of your currently installed plugins and then you may update each one of your plugins by clicking on the update button for each plugin.
+
 ***
 
 [[Home|Home]] | [[Back|Logs]] | [[Next|Playlists]]

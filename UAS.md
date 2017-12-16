@@ -82,7 +82,7 @@ You should then click on the 'Updates Available' notice to display all of your c
 
 After clicking on the update button, a message wiill appear informing you of a successful update for your plug-in.
 
-**Note:** The 'App successfully updated' message will continue to appear until you leave the UAS module. Upon entering the UAS module again, the message should be gone.
+**Note:** The 'App successfully updated' message will continue to appear until you leave the UAS module. Upon entering the UAS module again, the message should no longer appear.
 
 ***
 

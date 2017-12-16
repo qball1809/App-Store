@@ -53,7 +53,7 @@ If the plug-in window is expanded, the `Down Arrow` button will change to an `Up
 
 ## The Search Tool Box
 
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image02.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image03.png)
 
 The search tool box contains the search text box where you are able to type in a search term. You may then click on the search button.
 

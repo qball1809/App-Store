@@ -69,7 +69,7 @@ You may also click on the Installed category. This category will display only th
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image10.png)
 
-Note: We only check for updates, when you manually press the "Check for updates" button
+**Note:** We only check for updates, when you manually press the "Check for updates" button
 
 When updates for your plugins are available you will see a notice appear at the top of the category selector (as shown above).
 
@@ -78,6 +78,8 @@ You should then click on the 'Updates Available' notice to display all of your c
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image11.png)
 
 After clicking on the update button, a message wiill appear informing you of a successful update for your plugin.
+
+**Note:** The 'Updated Successfully' message will continue to appear until you leave the UAS module. Upon entering the UAS module again, the message should be gone.
 
 ***
 

@@ -7,7 +7,7 @@ Please note that the plug-ins available here-in are not supported by the Plex Me
 
 They may be unstable, unfinished, or provide access to content which may be offensive.
 
-If you are having trouble with any of the plug-ins available through this app, please go to the respective plugin's support thread.
+If you are having trouble with any of the plug-ins available through this app, please go to the respective plug-in's support thread.
 
 The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plug-ins and any complaints or requests for support in relation to specific plug-ins will be ignored.
 

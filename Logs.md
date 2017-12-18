@@ -30,7 +30,7 @@ Clicking on the 'Download the selected log file' button will download the curren
 
 Clicking on the 'Download all log files in a ZIP file' will download all of the available Plex log files in a .zip archive, to a location on your computer.
 
-This is very handy when you need help with diagnosing an issue with your Plex Media Server in the Plex forums, and compared to the [build-in log download function in PMS](https://support.plex.tv/hc/en-us/articles/200250417-Plex-Media-Server-Log-Files), this one not only preserve the file structure and file dates, but also include logs from 3.Party plugins.
+This is very handy when you need help with diagnosing an issue with your Plex Media Server in the Plex forums, and compared to the [built-in log download function in PMS](https://support.plex.tv/hc/en-us/articles/200250417-Plex-Media-Server-Log-Files), this one not only preserves the file structure and file dates, but also includes logs from 3rd Party plugins, such as WebTools.
 
 ***
 

@@ -3,13 +3,13 @@
 ## About the UAS
 The Unsupported Appstore (UAS) is a module running under the WebTools bundle, and is meant to ease the process of finding, downloading, installing, updating and (if need be) uninstalling **Unsupported** Plex plugins.
 
-Please note that the plugins available here-in are not supported by the Plex Media Server "Plex Online" store for many reasons.
+Please note that the plug-ins available here-in are not supported by the Plex Media Server "Plex Online" store for many reasons.
 
 They may be unstable, unfinished, or provide access to content which may be offensive.
 
 If you are having trouble with any of the plug-ins available through this app, please go to the respective plugin's support thread.
 
-The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plugins and any complaints or requests for support in relation to specific plugins will be ignored.
+The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plug-ins and any complaints or requests for support in relation to specific plug-ins will be ignored.
 
 ## UAS
 Entering the UAS (Unsupported App Store) you will be presented with a similar view to that shown below:

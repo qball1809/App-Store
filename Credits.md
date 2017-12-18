@@ -14,7 +14,7 @@ This plugin was made by a combined effort of the following people:
 
 ## Translations
 A **huge** thanks goes out to all the people that helped in translating WebTools.
-If you in WebTools itself visit the About page, you will see a list of the dedicated folks
+If your in WebTools visit the About page, you will see a list of all the dedicated folks that helped to make WebTools what it is today.
 
 ## Beta Testers
 Thanks to everyone participating in the Beta!

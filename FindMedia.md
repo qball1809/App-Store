@@ -28,7 +28,7 @@ Clicking on the Show Settings button on the right of screen will display the fol
 **The available settings include:**
 
 1. Ignore Hidden. This will ignore any hidden folders found in your media folder.
-2. Ignore Extras. This will ignore any 'extras' that may be included in your media folder.
+2. Ignore Extras. This will ignore any '[extras](https://support.plex.tv/hc/en-us/articles/200220677-Local-Media-Assets-Movies)' that may be included in your media folder.
 3. Ignore Folders. This will ignore any system or other folders within your media folder.
 
 **Add or remove ignored folders:**

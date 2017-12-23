@@ -21,6 +21,12 @@
 <a name="Q6"></a>
 * Q6: I deleted an agent based subtitles, but within minutes, it shows again
   * Most likely, your agent is still enabled, and when we delete the sub, PMS will trigger a refresh, causing the agent to redownload it
+<a name="Q7"></a>
+* Q7: Why doesn't the UAS automatically check for updates to the bundles I've installed?
+  * When the original UAS was created, it did do that.
+  * However, due to it's popularity, the impact on GitHub was huge, since every PMS running UAS, would check once every 24 hours.
+  * As such, GitHub was forced to shutdown the old UAS :(
+  * So to protect both GitHub, as well as the new UAS from been banned, it now requires the user of WebTools to press the button.
 
 ***
 

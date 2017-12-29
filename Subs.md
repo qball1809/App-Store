@@ -19,7 +19,7 @@ In the image below you will note five icons that appear when a subtitle is prese
 Clicking on one of these icons will do the following:
 1. Check mark this box in order to delete the selected subtitle.
 2. The Upload icon will allow you to upload your own subtitle file into your Plex library.
-3. Clicking on the Trash can icon will only delete selected subtitles.
+3. Clicking on the Trash can icon will delete only selected subtitles.
 4. Clicking on this button will Download the subtitle to your computer.
 5. Clicking on this button will allow you to view the contents of the subtitle file. Works for text based subtitles      only.
 

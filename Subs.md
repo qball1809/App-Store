@@ -14,12 +14,14 @@ Sidecar subtitles are found alongside your video files, usually within the same 
 
 Burned In subtitles cannot be shown. If you wish to delete burned in subtitles you will need to replace the video file as burned in subtitles cannot be deleted or removed.
 
-In the image below you will note three icons that appear when a subtitle is present, they are indicated by the numbers 1, 2, 3 in RED text.
+In the image below you will note five icons that appear when a subtitle is present, they are indicated by the numbers 1, 2, 3, 4, 5 in RED text.
 
 Clicking on one of these icons will do the following:
 1. Check mark this box in order to delete the selected subtitle.
 2. The Upload icon will allow you to upload your own subtitle file into your Plex library.
 3. Clicking on the Trash can icon will only delete selected subtitles.
+4. Clicking on this button will Download the subtitle to your computer.
+5. Clicking on this button will allow you to view the contents of the subtitle file. Works for text based subtitles      only.
 
 Note: Icon 1 will appear inline with any subtitle that is able to be deleted. Subtitles that cannot be deleted will not show this check box.
 

@@ -23,7 +23,7 @@ Clicking on one of these icons will do the following:
 
 Note: Icon 1 will appear inline with any subtitle that is able to be deleted. Subtitles that cannot be deleted will not show this check box.
 
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image02.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Subs/MS-image07.png)
 
 ## Selecting a TV Show Library
 

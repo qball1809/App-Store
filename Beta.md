@@ -34,6 +34,7 @@ If you want to participate in the beta program for WebTools V3, then it does inv
   * If your language is missing, you should create and translate it at 
   * Languages that have been translated, or are in the process of being translated:
     * Arabic
+    * Czech
     * Danish
     * Dutch
     * English
@@ -42,12 +43,18 @@ If you want to participate in the beta program for WebTools V3, then it does inv
     * Greek
     * Hebrew
     * Hindi
+    * Hungarian
+    * Italian
     * Norwegian Bokmål
+    * Polish
     * Portuguese
     * Portuguese (BR)
     * Romanian
+    * Russian
     * Spanish
     * Swedish
+    * Turkish
+
 * Testing
   * You should test as many functions of WebTools as possible
 * Bug Reporting

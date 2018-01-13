@@ -24,6 +24,8 @@ The Base URL text box is used to enter the url required if you are using a proxy
 
 EG: Your base URL may be something like: `/WebTools`
 
+See this [post](http://forums.plex.tv/discussion/comment/1592469/#Comment_1592469)
+
 ***
 
 If you use custom certificates then the certificate name and the certificate key file names can be entered into the appropriate text boxes.

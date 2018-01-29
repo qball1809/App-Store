@@ -24,7 +24,7 @@ The Base URL text box is used to enter the url required if you are using a proxy
 
 EG: Your base URL may be something like: `/WebTools`
 
-If using mod_proxy from Apache something like that should do it
+If using mod_proxy from Apache something like this should do it:
 
 `AllowEncodedSlashes NoDecode`
 

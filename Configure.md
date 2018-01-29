@@ -26,11 +26,11 @@ EG: Your base URL may be something like: `/WebTools`
 
 If using mod_proxy from Apache something like that should do it
 
-`AllowEncodedSlashes NoDecode
+`AllowEncodedSlashes NoDecode`
 
-ProxyPass /WebTools http://localhost:33400/WebTools nocanon
+`ProxyPass /WebTools http://localhost:33400/WebTools nocanon`
 
-ProxyPassReverse /WebTools http://localhost:33400/WebTools nocanon`
+`ProxyPassReverse /WebTools http://localhost:33400/WebTools nocanon`
 
 ***
 

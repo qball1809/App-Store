@@ -24,7 +24,11 @@ The Base URL text box is used to enter the url required if you are using a proxy
 
 EG: Your base URL may be something like: `/WebTools`
 
-See this [post](http://forums.plex.tv/discussion/comment/1592469/#Comment_1592469)
+If using mod_proxy from Apache something like that should do it
+
+`AllowEncodedSlashes NoDecode
+ProxyPass /WebTools http://localhost:33400/WebTools nocanon
+ProxyPassReverse /WebTools http://localhost:33400/WebTools nocanon`
 
 ***
 

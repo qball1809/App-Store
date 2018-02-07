@@ -9,6 +9,8 @@ On this page, you can find a list of known issues with the latest version of Web
 * If running Mac OSX, then deletion of subtitles has sadly been disabled in WebTools V3.0.0, due to code not yet finalized for that platform. [#420](https://github.com/ukdtom/WebTools.bundle/issues/420)
 * Filter is sadly not working for Shows in V3.0.0 [#455](https://github.com/ukdtom/WebTools.bundle/issues/455)
 
+## UI
+* In V3.0.0, the UI is sadly not optimal when using a mobile device
  
 ***
 

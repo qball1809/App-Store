@@ -12,6 +12,9 @@ On this page, you can find a list of known issues with the latest version of Web
 ## UI
 * In V3.0.0, the UI is sadly not optimal when using a mobile device
  
+## Shield
+Since neither of the developers owns a Shield, and it seems like it behaves differently than other platforms, we sadly can't support that platform.
+
 ***
 
 [[Home|Home]] | [[Back|WT-Manual]] | [[Next|FAQ]]

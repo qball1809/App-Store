@@ -13,7 +13,7 @@ On this page, you can find a list of known issues with the latest version of Web
 * In V3.0.0, the UI is sadly not optimal when using a mobile device
  
 ## Shield
-Since neither of the developers owns a Shield, and it seems like it behaves differently than other platforms, we sadly can't support that platform.
+Since neither of the developers owns a Shield, and it seems like it behaves differently than other platforms, we sadly cannot support that platform.
 
 ***
 

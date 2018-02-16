@@ -3,7 +3,7 @@
 If you are running Windows, Asustor, QNAP or Synology, you will find an official "easy to install" packages here:
 [Web Tools Installer](https://github.com/ukdtom/WTInstaller/releases/latest)
 
-### 3.Party Install instructions
+### 3rd Party Install instructions
 * Docker
   * Do check out this [link](https://forums.lime-technology.com/topic/44982-plex-docker-help-webtools-amp-unsupported-app-store/)
 * Raspberry Pi

@@ -91,6 +91,6 @@ So, 14 days after signing up, we will look at the work you have done, and if you
 
 We believe that this will make it fair for those who work hard at making WebTools a great tool for everyone.
 
-We hope everyone enjoys WebTools and we would like to thank all of thsoe people who have contributed to making WebTools a great tool.
+We hope everyone enjoys WebTools and we would like to thank all of those people who have contributed to making WebTools a great tool.
 
 Thank You! 👍

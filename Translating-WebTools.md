@@ -16,4 +16,4 @@ We believe that this will make it fair for those who work hard at making WebTool
 
 We hope everyone enjoys WebTools and we would like to thank all of thsoe people who have contributed to making WebTools a great tool.
 
-Thank You! :)
+Thank You! 👍 

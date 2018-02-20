@@ -8,6 +8,8 @@ If you are running Windows, Asustor, QNAP or Synology, you will find an official
   * Do check out this [link](https://forums.lime-technology.com/topic/44982-plex-docker-help-webtools-amp-unsupported-app-store/)
 * Raspberry Pi
   * Do check out this [comment](https://forums.plex.tv/discussion/comment/1368888/#Comment_1368888)
+* NVidia Shield
+  * Please see [here](https://github.com/ukdtom/WebTools.bundle/wiki/Known-Issues)
 
 ### Manual Installation
 If you want/need to install WebTools manually, follow these steps:

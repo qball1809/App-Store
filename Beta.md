@@ -53,7 +53,6 @@ If you want to participate in the beta program for WebTools V3, then it does inv
     * Russian
     * Spanish
     * Swedish
-    * Turkish
 
 * Testing
   * You should test as many functions of WebTools as possible

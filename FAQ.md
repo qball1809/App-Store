@@ -28,6 +28,10 @@
   * However, due to it's popularity, the impact on GitHub was huge, since every PMS running UAS, would check once every 24 hours.
   * As such, GitHub was forced to shutdown the old UAS :(
   * So to protect both GitHub, as well as the new UAS from been banned, it now requires the user of WebTools to press the button.
+<a name="Q8"></a>
+* Q8: When using Google as Authenticator towards Plex, WebTools fails to logon
+  * To fix this, set password under my account in plex's user profile
+    * Thanks goes towards @Asafb26 for this
 
 ***
 

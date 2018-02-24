@@ -31,7 +31,7 @@
 <a name="Q8"></a>
 * Q8: When using Google as Authenticator towards Plex, WebTools fails to logon
   * To fix this, set password under my account in plex's user profile
-    * Thanks goes towards [Asafb26] for this
+    * Thanks goes towards [Asafb26](https://github.com/Asafb26) for this
 
 ***
 

@@ -8,9 +8,9 @@ We find this unfair to all of the people that work hard to translate WebTools, s
 
 So this is the deal, when signing up ...
 
-When you sign up to translate one or more languages for WebTools, we do expect that you translate at least one string.
+When you sign up to translate one or more languages for WebTools, we do expect that you translate a fair amount of strings.
 
-So, 14 days after signing up, we will look at the work you have done, and if you have not contributed anything at all, you will be removed from the translation list and you will be blocked from signing up again.
+So, 14 days after signing up, we will look at the work you have done, and if you have not contributed anything at all, or the amount of translations seems unfair to the other translators, you will be removed from the translation list and you will be blocked from signing up again.
 
 We believe that this will make it fair for those who work hard at making WebTools a great tool for everyone.
 

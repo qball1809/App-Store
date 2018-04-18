@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Logos/WebTools-48x48.png) Configure WebTools
 
-In order to configure WebTools, open the Plex home page in your Web Browser and then click on Channels [Now named Plugins in Plex/Web and located on the lower left of the Plex/Web Home page] (See: * [[Locating WebTools|Locate-WT]]) and locate the WebTools poster. Now move your mouse over the poster until you see the icons as shown below. Click on the Gear icon (shown in the red box).
+In order to configure WebTools, open the Plex home page in your Web Browser and then click on Channels [Now named Plugins] (See: * [[Locating WebTools|Locate-WT]]) and locate the WebTools poster. Now move your mouse over the poster until you see the icons as shown below. Click on the Gear icon (shown in the red box).
 
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Configuration/CWT-image01.png)
 

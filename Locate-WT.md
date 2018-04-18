@@ -4,7 +4,7 @@ Plex Media Server offers many plug-ins under the title of _Plugins_ (formerly na
 
 After you have installed the WebTools plug-in, it should appear in the Plugins menu on your Plex Media Server home page.
 
-The Pluginss menu is located on the bottom left of the Plex Media Server Home page:
+The Plugins menu is located on the bottom left of the Plex Media Server Home page:
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Locate/LWT-image03.png)
 
 A typical view of the Plugins menu in Plex Media server:

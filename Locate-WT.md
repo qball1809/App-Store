@@ -8,7 +8,7 @@ The Plugins menu is located on the bottom left of the Plex Media Server Home pag
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Locate/LWT-image03.png)
 
 A typical view of the Plugins menu in Plex Media server:
-![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Locate/LWT-image01.png)
+![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Locate/LWT-image02.png)
 
 If you have not installed or configured WebTools yet, then see the following pages:
 * [[Installing WebTools|Install]]

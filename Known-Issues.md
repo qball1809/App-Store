@@ -15,6 +15,10 @@ On this page, you can find a list of known issues with the latest version of Web
 ## Shield
 Since neither of the developers owns a Shield, and it seems like it behaves differently than other platforms, we sadly cannot support that platform.
 
+## Playlists
+Downloading playlists for non-owner sadly fails
+Workaround: http://forums.plex.tv/discussion/comment/1671277/#Comment_1671277
+
 ***
 
 [[Home|Home]] | [[Back|WT-Manual]] | [[Next|FAQ]]

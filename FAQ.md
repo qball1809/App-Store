@@ -30,7 +30,7 @@
   * So to protect both GitHub, as well as the new UAS from been banned, it now requires the user of WebTools to press the button.
 <a name="Q8"></a>
 * Q8: When using Google as Authenticator towards Plex, WebTools fails to logon
-  * To fix this, set password under my account in plex's user profile
+  * To fix this, set password under [my account in Plex's user profile](https://app.plex.tv/desktop#!/account)
     * Thanks goes towards [Asafb26](https://github.com/Asafb26) for this
 
 ***

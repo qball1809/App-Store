@@ -9,7 +9,9 @@ They may be unstable, unfinished, or provide access to content which may be offe
 
 If you are having trouble with any of the plug-ins available through this app, please go to the respective plug-in's support thread.
 
-The authors of the Unsupported Appstore take no responsibility for the content/stability/suitability of the contained plug-ins and any complaints or requests for support in relation to specific plug-ins will be ignored.
+You will find links to support pages or to the GitHub Repo by clicking on the down arrow which is located on the lower right of each of the listed apps within the UAS module.
+
+The authors of WebTools take no responsibility for the content/stability/suitability of the plug-ins contained within the UAS and any complaints or requests for support in relation to specific plug-ins will be ignored.
 
 ## UAS
 Entering the UAS (Unsupported App Store) you will be presented with a similar view to that shown below:

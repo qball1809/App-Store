@@ -4,7 +4,7 @@ WebTools is a plug-in, that contains a few tool modules, that will assist you in
 
 Each time you launch WebTools and login, WebTools will check for an update. If the check fails, you will see an error message. If the check succeeds, you will be alerted to the update.
 
-Tool Modules currently available are:
+Tool Modules currently available in WebTools include:
 
 ## Manage Subs (Subtitles)
 Manage subtitle files, regardless of them been sidecars (Located next to the media file), or downloaded via another plugin, like the OpenSubtitle.org bundle. What this plugin can do, is allow you to gather an overview of subtitles for your media, view them, and delete them, unless they are embedded within the media itself.

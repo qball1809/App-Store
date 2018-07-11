@@ -2,6 +2,8 @@
 
 WebTools is a plug-in, that contains a few tool modules, that will assist you in running a [Plex Media Server](https://www.plex.tv/)
 
+Each time you launch WebTools and login, WebTools will check for an update. If the check fails, you will see an error message. If the check succeeds, you will be alerted to the update.
+
 Tool Modules currently available are:
 
 ## Manage Subs (Subtitles)

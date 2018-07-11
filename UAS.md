@@ -52,6 +52,8 @@ The `Down Arrow` button will expand the plug-in window and display additional in
 
 If the plug-in window is expanded, the `Down Arrow` button will change to an `Up Arrow` button which will close or un-expand the plug-in window.
 
+If you first click on the 'Installed' category in the category selector (right of screen) then click on the down arrow, you will see additional information such as when the plugin was last updated.
+
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/UAS/UAS-image09.png) 
 
 ## The Search Tool Box

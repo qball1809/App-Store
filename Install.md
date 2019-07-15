@@ -21,8 +21,6 @@ If you want/need to install WebTools manually, follow these steps:
 * Make sure the WebTools.bundle directory contains a directory named "Contents". If not, then you might be one directory too high!
 * If running Linux or Mac OS X, also make sure that the user running Plex Media Server has the correct permissions to the WebTools.bundle directory and it's contents.
 
-**Note:** You cannot currently install WebTools on the Nvidia Shield TV. See the [Plex Nvidia Shield](https://forums.plex.tv/tags/server-nvidia-shield) forum for details.
-
 Your Plug-ins folder should look something like this after manually installing WebTools.
 ![](https://github.com/ukdtom/WebTools.bundle/blob/master/Wiki/WebTools/Installation/IWT-image01.png)
 
